@@ -1,2 +1,2 @@
-# AI-Peer-Review-
+# AI-Peer-Review
 Analytic domain ChatGPT-Wolfram Plugin prompts/responses
