@@ -1,4 +1,4 @@
-# AI Peer Review of Standard Model of Physics vs 4D GEM EOS via ChatGPT with Wolfram Plugin
+## AI Peer Review of Standard Model of Physics vs 4D GEM EOS via ChatGPT with Wolfram Plugin
 
 **Abstract**
 
