@@ -10,7 +10,7 @@ AI peer review prompt is formed of the first sections of this article wherein th
 
 **1. Introduction**
 
-Greek Natural Philosophy 300 BC to 2023 AD Resolved: Particles are Fields
+[Greek Natural Philosophy 300 BC to 2023 AD Resolved: Particles are Fields](https://www.nature.com/articles/s42254-023-00599-8)
 
 ![The School of Athens](TheSchoolofAthens.png)
 
