@@ -8,4 +8,4 @@ AI peer review prompt is generated in analytic domain for ChatGPT-Wolfram plugin
 
 Greek natural philosophy atomists-materialism of Aristotle-Democritus gets all the press while the Greek theory of forms of Plato-Parmenides has formed quantum information field theory. 
 
-AI-peer review prompt starts with present state of The School of Athens debate: A Deepening Crisis Forces Physicists to Rethink Structure of Nature’s Laws [1] many-body problem on the universal(multiverse!) scale while the 3-body problem is proven to be computationally intractable [2].
+AI-peer review prompt starts with present state of The School of Athens debate: [A Deepening Crisis Forces Physicists to Rethink Structure of Nature’s Laws](https://www.quantamagazine.org/crisis-in-particle-physics-forces-a-rethink-of-what-is-natural-20220301/) [1] many-body problem on the universal(multiverse!) scale while the 3-body problem is proven to be computationally intractable [2].
