@@ -10,13 +10,11 @@ AI peer review prompt is formed of the first sections of this article wherein th
 
 **1. Introduction**
 
-![The School of Athens](TheSchoolofAthens.png)
-
-**Fig. 1.** _The School of Athens_ wherein the Greek natural philosophy of Aristotle-Democritus atomist-materialism gets all the press while the Plato-Parmenides theory of forms has formed quantum information field theory.
-
 [Greek Natural Philosophy 300 BC to 2023 AD, Resolved: Particles are Fields](VisionPaperHarnessDavid.pdf)
 
-Present ai-peer review prompt for human-ai fundamental physics worldview starts with current relative state of _The School of Athens_ debate above: [A Deepening Crisis Forces Physicists to Rethink Structure of Nature’s Laws](https://www.quantamagazine.org/crisis-in-particle-physics-forces-a-rethink-of-what-is-natural-20220301/) 
+![The School of Athens](TheSchoolofAthens.png)
+
+**Fig. 1.** The present ai-peer review ChaptGPT-Wolfram prompt for a human-ai fundamental physics worldview starts with the current relative state of _The School of Athens_ debate shown here, wherein the Greek natural philosophy of Aristotle-Democritus atomist-materialism gets all the press while the Plato-Parmenides theory of forms-idealism has formed quantum information field theory, amid [A Deepening Crisis Forces Physicists to Rethink Structure of Nature’s Laws](https://www.quantamagazine.org/crisis-in-particle-physics-forces-a-rethink-of-what-is-natural-20220301/).
 
 Consider the Standard Model of Physics is an attempt to solve the [many-body problem](https://en.wikipedia.org/wiki/Many-body_problem#:~:text=The%20many%2Dbody%20problem%20is,accurate%20description%20of%20the%20system.) on the universal(multiverse!) scale while the 3-body problem is proven to be computationally intractable. Computationally intractable means [Quantum simulation of fundamental particles and forces](https://www.nature.com/articles/s42254-023-00599-8)
 
