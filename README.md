@@ -16,6 +16,6 @@ AI peer review prompt for an ai-worldview in the [2023 Kaggle AI Report Competit
 
 **Fig. 2.** CERN LHC Control Room. Champagne bottles might need a backup plan.
 
-Consider the Standard Model of Physics is an attempt to solve the [many-body problem](https://en.wikipedia.org/wiki/Many-body_problem#:~:text=The%20many%2Dbody%20problem%20is,accurate%20description%20of%20the%20system.) on the universal(multiverse!) scale while the 3-body problem is proven to be computationally intractable. Computationally intractable means [Quantum simulation of fundamental particles and forces](https://www.nature.com/articles/s42254-023-00599-8)
+Consider the Standard Model of Physics is an attempt to solve the [many-body problem](https://en.wikipedia.org/wiki/Many-body_problem#:~:text=The%20many%2Dbody%20problem%20is,accurate%20description%20of%20the%20system.) on the universal(multiverse!) scale while the 3-body problem is proven to be computationally intractable. Computationally intractable means [Quantum simulation of fundamental particles and forces](https://www.nature.com/articles/s42254-023-00599-8) cannot be computationally reproduced from [hidden dimensional physics of unknown material AdS/CFT mechanisms](https://en.wikipedia.org/wiki/AdS/CFT_correspondence).
 
 
