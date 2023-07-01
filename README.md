@@ -18,4 +18,4 @@ AI peer review prompt for an ai-worldview in the [2023 Kaggle AI Report Competit
 
 ![APS Prof. Maria Spiropulu](MariaAPS2014.png)
 
-**Fig. 3.** CERN Experimental Physicist Maria Spiropulu report at [APS April Meeting 2014](https://www.youtube.com/watch?v=fB6xIH24P7Q) see @20:32, now co-chair of the [Elementary Particle Physics 2024 Committee](https://www.nationalacademies.org/our-work/elementary-particle-physics-progress-and-promise). Prof. Spiropulu states in Call for Vision Papers
+**Fig. 3.** CERN Experimental Physicist Maria Spiropulu presents on [The Future of the Higgs Boson at APS April Meeting 2014](https://www.youtube.com/watch?v=fB6xIH24P7Q) see @20:32, now co-chair of the [Elementary Particle Physics 2024 Committee](https://www.nationalacademies.org/our-work/elementary-particle-physics-progress-and-promise). Prof. Spiropulu states in Call for Vision Papers
