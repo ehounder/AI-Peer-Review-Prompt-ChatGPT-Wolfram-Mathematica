@@ -12,6 +12,10 @@ AI peer review prompt for an ai-worldview in the [2023 Kaggle AI Report Competit
 
 **Fig. 1.** The present ai-peer review ChaptGPT-Wolfram prompt for a _SUSY_ vs 4D GEM EOS human-ai fundamental physics worldview originates with _The School of Athens_ debate shown, wherein the Greek natural philosophy of Aristotle-Democritus atomist-materialism gets all the press while the Plato-Parmenides theory of forms-idealism has formed quantum information field theory. The current relative state of which being [A Deepening Crisis Forces Physicists to Rethink Structure of Nature’s Laws](https://www.quantamagazine.org/crisis-in-particle-physics-forces-a-rethink-of-what-is-natural-20220301/).
 
+![LHC Control Room](LHCControlRoom.png)
+
+**Fig. 2.** CERN LHC Control Room champagne bottles Mission Statement
+
 Consider the Standard Model of Physics is an attempt to solve the [many-body problem](https://en.wikipedia.org/wiki/Many-body_problem#:~:text=The%20many%2Dbody%20problem%20is,accurate%20description%20of%20the%20system.) on the universal(multiverse!) scale while the 3-body problem is proven to be computationally intractable. Computationally intractable means [Quantum simulation of fundamental particles and forces](https://www.nature.com/articles/s42254-023-00599-8)
 
-![LHC Control Room](LHCControlRoom.png)
+
