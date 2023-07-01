@@ -18,4 +18,4 @@ AI peer review prompt for an ai-worldview in the [2023 Kaggle AI Report Competit
 
 ![APS Prof. Maria Spiropulu](MariaAPS2014.png)
 
-**Fig. 3.** [APS April 2014 Meeting](https://www.youtube.com/watch?v=fB6xIH24P7Q) report by CERN Experimental Physicist Maria Spiropulu see @20:32.
+**Fig. 3.** CERN Experimental Physicist Maria Spiropulu report at [APS April 2014 Meeting](https://www.youtube.com/watch?v=fB6xIH24P7Q) see @20:32.
