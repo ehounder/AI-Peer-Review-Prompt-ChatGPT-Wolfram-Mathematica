@@ -34,7 +34,7 @@ Hence the [deepening crisis forcing physicists to rethink the structure of natur
 
 > “As a man who has devoted his whole life to the most clearheaded science, to the study of matter, I can tell you as a result of my research about the atoms this much: There is no matter as such! All matter originates and exists only by virtue of a force which brings the particles of an atom to vibration and holds this most minute solar system of the atom together.... We must assume behind this force the existence of a conscious and intelligent Mind. This Mind is the matrix of all matter.”
 
-In terms then of the modern form of _The School of Athens_ debate the views of Einstein are aligned with the particle-atomist-materialism of Aristotle-Democritus vs the views of his mentor Planck being aligned with the general information field theory of forms-idealism of Plato-Parmenides.
+In terms of the modern form of _The School of Athens_ debate we seen the views of Einstein aligned with the particle-atomist-materialism of Aristotle-Democritus vs the views of his mentor Planck being aligned with the general information field theory of forms-idealism of Plato-Parmenides.
 
 Recently, at the [QNetworks April meeting 2022](https://www.quantumcommshub.net/event/save-the-date-qnetworks-2022/?return=https%3A%2F%2Fwww.quantumcommshub.net%2Fevent%2Fsite%2Fresearch-community%2F2022%2F&site=research-community), Prof. Spiropulu gave a talk on her Quantum Teleportation Networks after which the author was further fortunate enough to ask:
 
