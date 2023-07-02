@@ -64,3 +64,136 @@ The present radical new idea computationally reproduces QED 0D→4D spatially-ex
 
 Measurable along Feynman path integrals Noether probability current ranging compressive through rarefactive of the cosmological constant vacuum energy momentum
 density pressure Λ spanning all the factors in the relativistic energy equation in all cases greater than zero energy-mass gap.
+
+```
+Proof = DynamicModule[{
+   h = QuantityMagnitude[Quantity[1, "PlanckConstant"], 
+     "Joules" "Seconds"],
+   hbar = 
+    QuantityMagnitude[Quantity[1, "PlanckConstant"]/(2 \[Pi]), 
+     "Joules" "Seconds"],
+   c = QuantityMagnitude[Quantity[1, "SpeedOfLight"], 
+     "Meters" ("Seconds")^-1],
+   eEnergy = 
+    QuantityMagnitude[Quantity[1, "ElectronMass" ("SpeedOfLight")^2], 
+     "Joules"],
+   me = QuantityMagnitude[Quantity[1, "ElectronMass"], "Kilograms"],
+   bohr = QuantityMagnitude[Quantity[1, "BohrRadius"], "Meters"]
+   }, ForAll[{\[Lambda], n}, 
+   UniformDistribution[{{1.*^-12, 1.*^4}, {1, 10000}}], \!\(
+\*SubsuperscriptBox[\(\[Integral]\), \(0\), \(\[Lambda]\)]\(
+\*SubsuperscriptBox[\(\[Integral]\), \(-
+\*FractionBox[\(\[Pi]\), \(4\)]\), 
+FractionBox[\(\[Pi]\), \(4\)]]\(
+\*SubsuperscriptBox[\(\[Integral]\), \(0\), \(
+\*FractionBox[\(1\), \(4\)]\ \[Lambda]\ 
+\*SqrtBox[\(Cos[2\ \[Theta]]\)]\)]2 \((
+\*FractionBox[
+FractionBox[\(2*h*c\), \(\[Lambda]\)], 
+FractionBox[
+SuperscriptBox[\(\[Lambda]\), \(3\)], \(8  \[Pi]\)]])\)\ Abs[Sin[\((
+\*FractionBox[\(2\ \[Pi]\), \(\[Lambda]\)])\)\ y]]\ \((1 - 
+\*SuperscriptBox[\((
+\*FractionBox[\(r\), \(
+\*FractionBox[\(1\), \(4\)]\ \[Lambda]\ 
+\*SqrtBox[\(Cos[
+                  2\ \[Theta]]\)]\)])\), \(2\)])\) r \
+\[DifferentialD]r \[DifferentialD]\[Theta] \[DifferentialD]y\)\)\) == \
+(h*c)/\[Lambda] \[DoubleRightArrow] \!\(
+\*SubsuperscriptBox[\(\[Integral]\), \(0\), \(\[Lambda]\)]\(
+\*SubsuperscriptBox[\(\[Integral]\), \(-
+\*FractionBox[\(\[Pi]\), \(4\)]\), 
+FractionBox[\(\[Pi]\), \(4\)]]\(
+\*SubsuperscriptBox[\(\[Integral]\), \(0\), \(
+\*FractionBox[\(1\), \(4\)]\ \[Lambda]\ 
+\*SqrtBox[\(Cos[2\ \[Theta]]\)]\)]2 \((\((
+\*FractionBox[
+FractionBox[\(2*h*c\), \(\[Lambda]\)], 
+FractionBox[
+SuperscriptBox[\(\[Lambda]\), \(3\)], \(8  \[Pi]\)]])\)\ /
+\*SuperscriptBox[\(c\), \(2\)])\) Abs[Sin[\((
+\*FractionBox[\(2\ \[Pi]\), \(\[Lambda]\)])\)\ y]]\ \((1 - 
+\*SuperscriptBox[\((
+\*FractionBox[\(r\), \(
+\*FractionBox[\(1\), \(4\)]\ \[Lambda]\ 
+\*SqrtBox[\(Cos[2\ \[Theta]]\)]\)])\), \(2\)])\) \((
+\*FractionBox[\(2  \[Pi]\ c\), \(\[Lambda]\)]/\((
+\*FractionBox[\(1\), \(hbar\)] \((
+\*SubsuperscriptBox[\(\[Integral]\), \(0\), \(\[Lambda]\)]\(
+\*SubsuperscriptBox[\(\[Integral]\), \(-
+\*FractionBox[\(\[Pi]\), \(4\)]\), 
+FractionBox[\(\[Pi]\), \(4\)]]\(
+\*SubsuperscriptBox[\(\[Integral]\), \(0\), \(
+\*FractionBox[\(1\), \(4\)]\ \[Lambda]\ 
+\*SqrtBox[\(Cos[2\ \[Theta]]\)]\)]2 \((\((
+\*FractionBox[
+FractionBox[\(2*h*c\), \(\[Lambda]\)], 
+FractionBox[
+SuperscriptBox[\(\[Lambda]\), \(3\)], \(8  \[Pi]\)]])\)\ /
+\*SuperscriptBox[\(c\), \(2\)])\) Abs[Sin[\((
+\*FractionBox[\(2\ \[Pi]\), \(\[Lambda]\)])\)\ y]]\ \((1 - 
+\*SuperscriptBox[\((
+\*FractionBox[\(r\), \(
+\*FractionBox[\(1\), \(4\)]\ \[Lambda]\ 
+\*SqrtBox[\(Cos[2\ \[Theta]]\)]\)])\), \(2\)])\) \((
+\*FractionBox[\(\(2\)  \(\[Pi]\)\(\ \)\(c\)\(\ \)\), \
+\(\[Lambda]\)])\) r \[DifferentialD]r \[DifferentialD]\[Theta] \
+\[DifferentialD]y\)\))\))\))\) r \[DifferentialD]r \[DifferentialD]\
+\[Theta] \[DifferentialD]y\)\)\) == hbar && \!\(
+\*SubsuperscriptBox[\(\[Integral]\), \(0\), \(2  \[Pi]\)]\(
+\*SubsuperscriptBox[\(\[Integral]\), \(0\), \(\[Pi]\)]\(
+\*SubsuperscriptBox[\(\[Integral]\), \(0\), \(
+\*SqrtBox[\(2\)]*
+\*SuperscriptBox[\(n\), \(2\)]*bohr\)]\((
+\*FractionBox[
+FractionBox[\(4*eEnergy\), \(4  \[Pi]\ 
+\*SuperscriptBox[\((
+\*SqrtBox[\(2\)]*
+\*SuperscriptBox[\(n\), \(2\)]*bohr)\), \(3\)]/3\)], 
+SuperscriptBox[\(c\), \(2\)]])\) \((1 - 
+\*FractionBox[\(r\), \(
+\*SqrtBox[\(2\)]*
+\*SuperscriptBox[\(n\), \(2\)]*bohr\)])\) 
+\*SuperscriptBox[\(r\), \(2\)] Sin[\[Phi]] \[DifferentialD]r \
+\[DifferentialD]\[Phi] \[DifferentialD]\[Theta]\)\)\) == 
+      me \[DoubleRightArrow] \!\(
+\*SubsuperscriptBox[\(\[Integral]\), \(0\), \(2  \[Pi]\)]\(
+\*SubsuperscriptBox[\(\[Integral]\), \(0\), \(\[Pi]\)]\(
+\*SubsuperscriptBox[\(\[Integral]\), \(0\), \(
+\*SqrtBox[\(2\)]*
+\*SuperscriptBox[\(n\), \(2\)]*bohr\)]\((
+\*FractionBox[
+FractionBox[\(4*eEnergy\), \(4  \[Pi]\ 
+\*SuperscriptBox[\((
+\*SqrtBox[\(2\)]*
+\*SuperscriptBox[\(n\), \(2\)]*bohr)\), \(3\)]/3\)], 
+SuperscriptBox[\(c\), \(2\)]])\) \((1 - 
+\*FractionBox[\(r\), \(
+\*SqrtBox[\(2\)]*
+\*SuperscriptBox[\(n\), \(2\)]*bohr\)])\) \((
+\*FractionBox[\(c\), \(2  \[Pi]*
+\*SqrtBox[\(2\)]*
+\*SuperscriptBox[\(n\), \(2\)]*bohr\)]\ *\((
+\*FractionBox[\(hbar\), \(2\)]/\((
+\*SubsuperscriptBox[\(\[Integral]\), \(0\), \(2  \[Pi]\)]\(
+\*SubsuperscriptBox[\(\[Integral]\), \(0\), \(\[Pi]\)]\(
+\*SubsuperscriptBox[\(\[Integral]\), \(0\), \(
+\*SqrtBox[\(2\)]*
+\*SuperscriptBox[\(n\), \(2\)]*bohr\)]\((
+\*FractionBox[
+FractionBox[\(4*eEnergy\), \(4  \[Pi]\ 
+\*SuperscriptBox[\((
+\*SqrtBox[\(2\)]*
+\*SuperscriptBox[\(n\), \(2\)]*bohr)\), \(3\)]/3\)], 
+SuperscriptBox[\(c\), \(2\)]])\) \((1 - 
+\*FractionBox[\(r\), \(
+\*SqrtBox[\(2\)]*
+\*SuperscriptBox[\(n\), \(2\)]*bohr\)])\) \((
+\*FractionBox[\(c\), \(2  \[Pi]*
+\*SqrtBox[\(2\)]*
+\*SuperscriptBox[\(n\), \(2\)]*bohr\)])\)\ 
+\*SuperscriptBox[\(r\), \(2\)] Sin[\[Phi]] \[DifferentialD]r \
+\[DifferentialD]\[Phi] \[DifferentialD]\[Theta]\)\))\))\))\)\ 
+\*SuperscriptBox[\(r\), \(2\)] Sin[\[Phi]] \[DifferentialD]r \
+\[DifferentialD]\[Phi] \[DifferentialD]\[Theta]\)\)\) == hbar/2]]
+```
