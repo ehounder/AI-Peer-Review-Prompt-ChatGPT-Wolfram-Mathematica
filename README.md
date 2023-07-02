@@ -42,7 +42,9 @@ Recently, at the [QNetworks April meeting 2022](https://www.quantumcommshub.net/
 
 [Prof. Spiropulu: “Perhaps it does not have to be either/or.”](https://twitter.com/tensornerdo/status/1513572421839642624)
 
-Quantum teleportation, according to 4D GEM EOS, can only be occurring exclusively on a quantum information basis. The first principle for which being the LHC is entirely energized by the 4D spacetime Einstein-Maxwell electromagnetic stress-energy momentum density pressure tensor and its ATLAS CMS detectors measure only 4D electromagnetic energy density tensor pressure quantum field information.
+According to 4D GEM EOS the LHC null results and logic indicate quantum teleportation can only be occurring exclusively on a quantum information basis. The first principle for 4D GEM EOS being the LHC is entirely energized by the 4D spacetime Einstein-Maxwell electromagnetic stress-energy momentum density pressure tensor and its ATLAS CMS detectors measure only 4D electromagnetic energy density tensor pressure quantum field information.
+
+4D GEM EOS furthermore is based on the conceptual underpinnings of MUH, however 
 
 The present radical new idea computationally reproduces QED 0D→4D spatially-extended photon-electron soliton gauge group observables to all 31 & 34 decimal places for all wavelengths and energy levels [5] via Schwinger local field operator Dirac-Einstein-Maxwell gravitoelectromagnetic stress-energy momentum computationally dualistic energy/mass density pressure tensor field integrations. 
 
@@ -51,29 +53,13 @@ density pressure Λ spanning all the factors in the relativistic energy equation
 
 Singular Complex System Conjecture (SCSC)
 
-The radical idea is based on the conjecture there exists a singular
-mathematically possible universal complex system of the 4D spacetime
-dimensions, physical constants, laws, holographically bound energymass
-density distribution with time the fourth dimension of length
-from t−∞ → t∞ with the unitary factors in Euler’s identity eiπ +1 = 0
-composed via the concept of infinity with no free parameters [6].
-Improbably, SCSC can never be proven via its internal axioms per
-G¨odel incompleteness only falsified by proof of the Mathematical Universe
-Hypothesis (MUH) unformalized claim external physical reality
-is the mathematical structure of a computable universe having parallel
-universe variations of physical dimensions, constants, and laws [7].
-Problem is proof of MUH requires formalizing the unknown parallel
-universe variations of the Supersymmetry (SUSY ) particle model all of
-which are zero-sized (0D) Dirac delta functional δ imaginary-invisible
-local mathematical points which occupy no space yet operate via hidden
-dimensional unknown material nonlocally entangled mechanisms.
+The radical idea is based on the conjecture there exists a singular mathematically possible universal complex system of the 4D cylindrical spacetime dimensions, physical constants, laws, holographically bound energy/mass density distribution with time the fourth dimension of length from t~−∞~ → t~∞~ with the unitary factors in Euler’s identity e^iπ^ +1 = 0 composed via the concept of infinity with no free parameters [6].
 
-Such unnaturalness arises as an unacknowledged attempt to solve the
-classical multi-body problem on the universal(multiverse!) scale while
-the 3-body problem is proven to be computationally intractable.
-Computationally intractable means an AI worldview cannot be computationally
-reproduced from the SUSY hidden dimensional physics
-mechanisms. 
+Improbably, SCSC can never be proven via its internal axioms per G¨odel incompleteness only falsified by proof of the Mathematical Universe Hypothesis (MUH) unformalized claim external physical reality is the mathematical structure of a computable universe having parallel universe variations of physical dimensions, constants, and laws [7].
+
+Problem is proof of MUH requires formalizing the unknown parallel universe variations of the Supersymmetry (SUSY ) particle model all of which are zero-sized (0D) Dirac delta functional δ imaginary-invisible local mathematical points which occupy no space yet operate via hidden dimensional unknown material nonlocally entangled mechanisms.
+
+Such unnaturalness arises as an unacknowledged attempt to solve the classical multi-body problem on the universal(multiverse!) scale while the 3-body problem is proven to be computationally intractable. Computationally intractable means an AI worldview cannot be computationally reproduced from the SUSY hidden dimensional physics mechanisms. 
 
 And at ever higher-energies why don’t the LHC beams of zero-sized particles which occupy no space just pass through one another without colliding?
 
