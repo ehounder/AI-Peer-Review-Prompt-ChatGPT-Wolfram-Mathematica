@@ -44,17 +44,17 @@ Recently, at the [QNetworks April meeting 2022](https://www.quantumcommshub.net/
 
 Quantum teleportation, according to 4D GEM EOS, is occurring exclusively on the basis of a general information field theory. The first principle for which being the LHC is entirely energized by the 4D spacetime Einstein-Maxwell electromagnetic stress-energy momentum density pressure tensor and its ATLAS CMS detectors measure only 4D electromagnetic energy density tensor pressure quantum field information.
 
-4D GEM EOS formalizes the conceptual framework of MUH, however in doing so makes the claim no formalization exists for any such parallel universe variations of physical dimensions, constants, laws, and so on. Whereas 4D GEM EOS is formalized of the [Singular Complex System Conjecture (SCSC)](https://www.researchgate.net/publication/338986496_Singular_Complex_System_Conjecture) its radical new idea being there exists a singular mathematically possible universal complex system of the 4D cylindrical spacetime dimensions, physical constants, laws, holographically bound energy/mass density distribution with time the fourth dimension of length from t−∞ → t∞ with the unitary factors in Euler’s identity e^i^^π^ +1 = 0 composed via the concept of infinity with no free parameters.
+4D GEM EOS formalizes the conceptual framework of MUH, however in doing so makes the claim no formalization exists for any such parallel universe variations of physical dimensions, constants, laws, and so on. Whereas 4D GEM EOS is formalized of the [Singular Complex System Conjecture (SCSC)](https://www.researchgate.net/publication/338986496_Singular_Complex_System_Conjecture) its radical new idea being there exists a singular mathematically possible universal complex system of the 4D cylindrical spacetime dimensions, physical constants, laws, holographically bound energy/mass density distribution with time the fourth dimension of length from t−∞ → t∞ with the unitary factors in Euler’s identity composed via the concept of infinity with no free parameters.
 
 Improbably, SCSC can never be proven via its internal axioms per Gödel incompleteness only falsified by proof of MUH-_SUSY_ unformalized claim external physical reality is the mathematical structure of a computable universe having parallel universe variations of physical dimensions, constants, laws, and so on.
 
 Problem is proof of MUH-_SUSY_ requires formalizing the unknown parallel universe variations of the _SUSY_ AdS/CFT hidden dimensional particle physics model all of which are zero-sized (0D) Dirac delta functional δ imaginary-invisible local mathematical points which occupy no space yet operate via hidden dimensional unknown material nonlocally entangled mechanisms.
 
-Such unnaturalness arises as an unacknowledged attempt to solve the classical multi-body problem on the universal(multiverse!) scale while the 3-body problem is proven to be computationally intractable. Computationally intractable means an AI worldview cannot be computationally reproduced from the SUSY hidden dimensional physics mechanisms. 
-
-Speaking of unnaturalness how does it go again two hands clapping never touch?
+Such unnaturalness arises again as an unacknowledged attempt to solve the classical multi-body problem on the universal(multiverse!) scale while the 3-body problem is proven to be computationally intractable. Speaking of unnaturalness how does it go again two hands clapping never touch?
 
 And at ever higher-energies why don’t the LHC beams of zero-sized particles which occupy no space just pass through one another without colliding?
+
+Particle physicists answer the Pauli exclusion principle prevents to particles from occupying the same space. That's fine except zero-sized _SUSY_ particles occupy no space so the Pauli esclusion principle itself is ironically [Not Even Wrong](https://www.math.columbia.edu/~woit/wordpress/).
 
 Hence: contradiction by AI.
 
