@@ -58,9 +58,23 @@ The particle physicists answer is the Pauli exclusion principle prevents the δ 
 
 Thus the background for the ChatGPT-Wolfram MUH-_SUSY_-AdS/CFT particle model prompt ends and the ChatGPT-Wolfrma MUH-4D GEM EOS field integrations prompt begins.
 
+The 4D GEM EOS radical new idea has progressed through several stages starting here with the 2017 proposal:
 
+[AI Peer Review Challenge: Standard Model of Physics vs 4D GEM EOS](https://www.researchgate.net/publication/317566286_AI_Peer_Review_Challenge_Standard_Model_of_Physics_vs_4D_GEM_EOS)
 
-The present radical new idea computationally reproduces QED 0D→4D spatially-extended photon-electron soliton gauge group observables to all 31 & 34 decimal places for all wavelengths and energy levels [5] via Schwinger local field operator Dirac-Einstein-Maxwell gravitoelectromagnetic stress-energy momentum computationally dualistic energy/mass density pressure tensor δ field integrations. Measurable along Feynman path integrals Noether probability current ranging compressive through rarefactive of the cosmological constant vacuum energy momentum density pressure Λ spanning all the factors in the relativistic energy equation in all cases greater than zero energy/mass gap.
+Maplesoft coded equations posted in the Maplesoft Application Center in 2019:
+
+[4D Spatially-Extended Photon and Electron Quantum Mechanical Observables For All Wavelengths and Energy Levels]([https://www.researchgate.net/publication/337844799_4D_Spatially-Extended_Photon_and_Electron_Quantum_Mechanical_Observables_For_All_Wavelengths_and_Energy_Levels](https://www.maplesoft.com/applications/Detail.aspx?id=154590))
+
+Mathematica® theorem proving operator code posted in the Wolfram Notebook Archive in 2020:
+
+[AI Pattern-Matching CERN LHC Collision Particle Resonance Flow Patterns with Electromagnetic Energy Density Pressure Turbulence](https://notebookarchive.org/ai-pattern-matching-cern-lhc-collision-particle-resonance-flow-patterns-with-electromagnetic-energy-density-pressure-turbulence--2020-03-dujz6sz/)
+
+Condensed Mathematica® theorem proving operator code posted on ResearchGate 2020:
+
+[Spatially-Extended 4D Photon and Electron ForAll Wavelengths & Energy Levels](https://www.researchgate.net/publication/358283851_Spatially-Extended_4D_Photon_and_Electron_ForAll_Wavelengths_Energy_Levels)
+
+computationally reproduces QED 0D→4D spatially-extended photon-electron soliton gauge group observables to all 31 & 34 decimal places for all wavelengths and energy levels [5] via Schwinger local field operator Dirac-Einstein-Maxwell gravitoelectromagnetic stress-energy momentum computationally dualistic energy/mass density pressure tensor δ field integrations. Measurable along Feynman path integrals Noether probability current ranging compressive through rarefactive of the cosmological constant vacuum energy momentum density pressure Λ spanning all the factors in the relativistic energy equation in all cases greater than zero energy/mass gap.
 
 ![4DGEMEOSProof.png](4DGEMEOSProof.png)
 
