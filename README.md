@@ -32,4 +32,67 @@ Both Chamberlain and Seaborg gave the exact same answer:
 
 Hence the [deepening crisis forcing physicists to rethink the structure of nature's laws](https://www.quantamagazine.org/crisis-in-particle-physics-forces-a-rethink-of-what-is-natural-20220301/) runs much deeper. Consider of course all the foremost modern physicists from Einstein to Feynman have stated in various terms nobody understands how quantum mechanics works. Einstein famously held the belief there must be some hidden material mechanism variables guiding the collapse of the superpositioned quantum mechanical states into the 4D spacetime human experiences. Planck somewhat less famously held the belief:
 
->
+> “As a man who has devoted his whole life to the most clearheaded science, to the study of matter, I can tell you as a result of my research about the atoms this much: There is no matter as such! All matter originates and exists only by virtue of a force which brings the particles of an atom to vibration and holds this most minute solar system of the atom together.... We must assume behind this force the existence of a conscious and intelligent Mind. This Mind is the matrix of all matter.”
+
+In terms then of the modern form of _The School of Athens_ debate the views of Einstein are aligned with the atomist-materialism of Aristotle-Democritus vs the views of his mentor Planck being aligned with the theory of forms-idealism of Plato-Parmenides.
+
+Recently, at the QNetworks April meeting 2022, Prof. Spiropulu gave a talk on her Quantum Teleportation Networks after which the author was further fortunate enough to ask:
+
+> “Is quantum teleportation considered by most physicists based on some multi-body particle material mechanism or immaterial quantum information basis?”
+
+Prof. Spiropulu: “Perhaps it does not have to be either/or.”
+
+Quantum teleportation, as we see it, is occurring exclusively on a
+quantum information basis. So this vision paper starts from the first
+principle the LHC is entirely energized by the 4D spacetime Einstein-
+Maxwell electromagnetic stress-energy momentum density pressure tensor
+and its ATLAS CMS detectors measure only 4D electromagnetic
+energy density tensor pressure quantum field information.
+The present radical new idea computationally reproduces QED 0D→4D
+spatially-extended photon-electron soliton gauge group observables to
+all 31 & 34 decimal places for all wavelengths and energy levels [5] via
+Complex Systems, volume (year) 1–1+; year Complex Systems Publications, Inc.
+2 David A. Harness
+Schwinger local field operator Dirac-Einstein-Maxwell gravitoelectromagnetic
+stress-energy momentum computationally dualistic energymass
+density pressure tensor field integrations. Measurable along Feynman
+path integrals Noether probability current ranging compressive
+through rarefactive of the cosmological constant vacuum energy momentum
+density pressure Λ spanning all the factors in the relativistic
+energy equation in all cases greater than zero energy-mass gap.
+2. Singular Complex System Conjecture (SCSC)
+The radical idea is based on the conjecture there exists a singular
+mathematically possible universal complex system of the 4D spacetime
+dimensions, physical constants, laws, holographically bound energymass
+density distribution with time the fourth dimension of length
+from t−∞ → t∞ with the unitary factors in Euler’s identity eiπ +1 = 0
+composed via the concept of infinity with no free parameters [6].
+Improbably, SCSC can never be proven via its internal axioms per
+G¨odel incompleteness only falsified by proof of the Mathematical Universe
+Hypothesis (MUH) unformalized claim external physical reality
+is the mathematical structure of a computable universe having parallel
+universe variations of physical dimensions, constants, and laws [7].
+Problem is proof of MUH requires formalizing the unknown parallel
+universe variations of the Supersymmetry (SUSY ) particle model all of
+which are zero-sized (0D) Dirac delta functional δ imaginary-invisible
+local mathematical points which occupy no space yet operate via hidden
+dimensional unknown material nonlocally entangled mechanisms.
+Such unnaturalness arises as an unacknowledged attempt to solve the
+classical multi-body problem on the universal(multiverse!) scale while
+the 3-body problem is proven to be computationally intractable.
+Computationally intractable means an AI worldview cannot be computationally
+reproduced from the SUSY hidden dimensional physics
+mechanisms. The committee could soon ask for an AI peer review of
+the matter perhaps utilizing the Isabelle Archive of Formal Proofs [8]
+and perhaps utilizing some future OpenAI natural language processing
+API [9] once the AI neural network automated theorem provers are
+able to understand multivariable calculus in the analytic domain.
+AI peer review of SUSY particle model requires explaning how
+nuclear force is “carried”by exchange of unobservable [quark-emitter→gluoncarrier←
+quark-absorber] virtual particles contrary to every observed
+[emitter↔emitted↔absorber] interaction resulting in a repulsion
+from any would-be line of attraction. And at ever higher-energies why
+don’t the LHC beams of zero-sized particles which occupy no space
+just pass through one another without colliding?
+Hence: contradiction by AI.
+Thus the particle model ends and field integrations begin.
