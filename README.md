@@ -54,7 +54,7 @@ Deepening crisis of MUH: _SUSY_-AdS/CFT requires formalizing the unknown paralle
 
 > And at ever higher-energies why don’t the CERN LHC beams of zero-sized δ particles - which occupy no space - just pass through one another without colliding?
 
-The particle physicists answer is the Pauli exclusion principle prevents the δ particles from occupying the same space. That's fine - except zero-sized _SUSY_ δ particles _occupy no space_ - so the Pauli exclusion principle itself is ironically [Not Even Wrong](https://www.math.columbia.edu/~woit/wordpress/).
+The particle physicists answer is the Pauli exclusion principle prevents the δ particles from occupying the same space. That's fine - except zero-sized _SUSY_ δ particles _occupy no space_ - so ironically the Pauli exclusion principle itself is [Not Even Wrong](https://www.math.columbia.edu/~woit/wordpress/).
 
 Thus the background for the ChatGPT-Wolfram MUH: _SUSY_-AdS/CFT particle model prompt ends and the ChatGPT-Wolfrma MUH: 4D GEM EOS field integrations prompt begins. MUH: _SUSY_-AdS/CFT can of course upgrade the prompt upon determination of any new formalized conjectures or test for randomness in ChatGPT-Wolfram reponses.
 
