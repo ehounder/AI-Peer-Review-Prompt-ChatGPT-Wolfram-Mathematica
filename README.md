@@ -42,23 +42,15 @@ Recently, at the [QNetworks April meeting 2022](https://www.quantumcommshub.net/
 
 [Prof. Spiropulu: “Perhaps it does not have to be either/or.”](https://twitter.com/tensornerdo/status/1513572421839642624)
 
-Quantum teleportation, as we see it, is occurring exclusively on a
-quantum information basis. So this vision paper starts from the first
-principle the LHC is entirely energized by the 4D spacetime Einstein-
-Maxwell electromagnetic stress-energy momentum density pressure tensor
-and its ATLAS CMS detectors measure only 4D electromagnetic
-energy density tensor pressure quantum field information.
-The present radical new idea computationally reproduces QED 0D→4D
-spatially-extended photon-electron soliton gauge group observables to
-all 31 & 34 decimal places for all wavelengths and energy levels [5] via
-Schwinger local field operator Dirac-Einstein-Maxwell gravitoelectromagnetic
-stress-energy momentum computationally dualistic energymass
-density pressure tensor field integrations. Measurable along Feynman
-path integrals Noether probability current ranging compressive
-through rarefactive of the cosmological constant vacuum energy momentum
-density pressure Λ spanning all the factors in the relativistic
-energy equation in all cases greater than zero energy-mass gap.
-2. Singular Complex System Conjecture (SCSC)
+Quantum teleportation, according to 4D GEM EOS, can only be occurring exclusively on a quantum information basis. The first principle for which being the LHC is entirely energized by the 4D spacetime Einstein-Maxwell electromagnetic stress-energy momentum density pressure tensor and its ATLAS CMS detectors measure only 4D electromagnetic energy density tensor pressure quantum field information.
+
+The present radical new idea computationally reproduces QED 0D→4D spatially-extended photon-electron soliton gauge group observables to all 31 & 34 decimal places for all wavelengths and energy levels [5] via Schwinger local field operator Dirac-Einstein-Maxwell gravitoelectromagnetic stress-energy momentum computationally dualistic energy/mass density pressure tensor field integrations. 
+
+Measurable along Feynman path integrals Noether probability current ranging compressive through rarefactive of the cosmological constant vacuum energy momentum
+density pressure Λ spanning all the factors in the relativistic energy equation in all cases greater than zero energy-mass gap.
+
+Singular Complex System Conjecture (SCSC)
+
 The radical idea is based on the conjecture there exists a singular
 mathematically possible universal complex system of the 4D spacetime
 dimensions, physical constants, laws, holographically bound energymass
@@ -75,22 +67,16 @@ universe variations of the Supersymmetry (SUSY ) particle model all of
 which are zero-sized (0D) Dirac delta functional δ imaginary-invisible
 local mathematical points which occupy no space yet operate via hidden
 dimensional unknown material nonlocally entangled mechanisms.
+
 Such unnaturalness arises as an unacknowledged attempt to solve the
 classical multi-body problem on the universal(multiverse!) scale while
 the 3-body problem is proven to be computationally intractable.
 Computationally intractable means an AI worldview cannot be computationally
 reproduced from the SUSY hidden dimensional physics
-mechanisms. The committee could soon ask for an AI peer review of
-the matter perhaps utilizing the Isabelle Archive of Formal Proofs [8]
-and perhaps utilizing some future OpenAI natural language processing
-API [9] once the AI neural network automated theorem provers are
-able to understand multivariable calculus in the analytic domain.
-AI peer review of SUSY particle model requires explaning how
-nuclear force is “carried”by exchange of unobservable [quark-emitter→gluoncarrier←
-quark-absorber] virtual particles contrary to every observed
-[emitter↔emitted↔absorber] interaction resulting in a repulsion
-from any would-be line of attraction. And at ever higher-energies why
-don’t the LHC beams of zero-sized particles which occupy no space
-just pass through one another without colliding?
+mechanisms. 
+
+And at ever higher-energies why don’t the LHC beams of zero-sized particles which occupy no space just pass through one another without colliding?
+
 Hence: contradiction by AI.
+
 Thus the particle model ends and field integrations begin.
