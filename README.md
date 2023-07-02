@@ -58,9 +58,9 @@ The particle physicists answer is the Pauli exclusion principle prevents the δ 
 
 MUH: _SUSY_-AdS/CFT theorists can of course upgrade the prompt with any new formalized conjectures or test for randomness in ChatGPT-Wolfram reponses.
 
-Thus the background for the ChatGPT-Wolfram prompt for a 4D human-ai worldview comparison between MUH: _SUSY_-AdS/CFT vs 4D GEM EOS photon-electron soliton gauge group.
+Thus the concludes the background in the AI Report Category of Other for the ChatGPT-Wolfram prompt for a 4D human-ai worldview comparison between MUH: _SUSY_-AdS/CFT vs 4D GEM EOS photon-electron soliton gauge group.
 
-### 2. AI Peer Review ChatGPT-Wolfram Prompt in 2023 Kaggle AI Report Competition Category of Other for MUH: 4D GEM EOS Human-AI Worldview
+### 2. AI Peer Review ChatGPT-Wolfram Prompt for MUH: 4D GEM EOS Human-AI Worldview
 
 The 4D GEM EOS radical new idea has progressed through several stages starting here with the 2017 proposal:
 
