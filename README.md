@@ -42,7 +42,7 @@ Recently, at the [QNetworks April meeting 2022](https://www.quantumcommshub.net/
 
 [Prof. Spiropulu: “Perhaps it does not have to be either/or.”](https://twitter.com/tensornerdo/status/1513572421839642624)
 
-According to 4D GEM EOS the LHC null results and logic indicate quantum teleportation can only be occurring exclusively on a quantum information basis. The first principle for 4D GEM EOS being the LHC is entirely energized by the 4D spacetime Einstein-Maxwell electromagnetic stress-energy momentum density pressure tensor and its ATLAS CMS detectors measure only 4D electromagnetic energy density tensor pressure quantum field information.
+Quantum teleportation, according to 4D GEM EOS, can only be occurring exclusively on a quantum information basis. The first principle for which being the LHC is entirely energized by the 4D spacetime Einstein-Maxwell electromagnetic stress-energy momentum density pressure tensor and its ATLAS CMS detectors measure only 4D electromagnetic energy density tensor pressure quantum field information.
 
 4D GEM EOS furthermore is based on the conceptual underpinnings of MUH, however 
 
