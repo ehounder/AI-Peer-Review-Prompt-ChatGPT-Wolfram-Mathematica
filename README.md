@@ -46,24 +46,21 @@ Quantum teleportation, according to 4D GEM EOS, is determined to be occurring ex
 
 4D GEM EOS formalizes the conceptual framework of MUH, however in doing so makes the claim no formalization exists for any such parallel universe variations of physical dimensions, constants, laws, and so on. Whereas 4D GEM EOS is formalized of the [Singular Complex System Conjecture (SCSC)](https://www.researchgate.net/publication/338986496_Singular_Complex_System_Conjecture) its radical new idea being there exists a singular mathematically possible universal complex system of the 4D cylindrical spacetime dimensions, physical constants, laws, holographically bound energy/mass density distribution with time the fourth dimension of length from t−∞ → t∞ with the unitary factors in Euler’s identity composed via the concept of infinity with no free parameters.
 
-Improbably, SCSC can never be proven via its internal axioms per Gödel incompleteness only falsified by proof of MUH-_SUSY_ unformalized claim external physical reality is the mathematical structure of a computable universe having parallel universe variations of physical dimensions, constants, laws, and so on.
+Improbably, SCSC can never be proven via its internal axioms per Gödel incompleteness only falsified by proof of MUH-_SUSY_-AdS/CFT unformalized claim external physical reality is the mathematical structure of a computable universe having parallel universe variations of physical dimensions, constants, laws, and so on.
 
-Problem is proof of MUH-_SUSY_ requires formalizing the unknown parallel universe variations of the _SUSY_ AdS/CFT hidden dimensional particle physics model all of which are zero-sized (0D) Dirac delta functional δ imaginary-invisible local mathematical points which occupy no space yet operate via hidden dimensional unknown material nonlocally entangled mechanisms.
+Problem is proof of MUH-_SUSY_-AdS/CFT requires formalizing the unknown parallel universe variations of the _SUSY_-AdS/CFT hidden dimensional particle physics model all of which are zero-sized (0D) Dirac delta functional  imaginary-invisible local mathematical points which occupy no space yet operate via hidden dimensional unknown material nonlocally entangled mechanisms.
 
-Such unnaturalness arises again as an unacknowledged attempt to solve the classical multi-body problem on the universal(multiverse!) scale while the 3-body problem is proven to be computationally intractable. Speaking of unnaturalness how does it go again two hands clapping never touch?
+Such unnaturalness arises again as an unacknowledged attempt to solve the classical multi-body problem on the universal(multiverse!) scale while the 3-body problem is proven to be computationally intractable. Speaking of unnaturalness how do CERN particle physicists explain again how two hands clapping never touch?
 
-And at ever higher-energies why don’t the LHC beams of zero-sized particles which occupy no space just pass through one another without colliding?
+And at ever higher-energies why don’t the CERN LHC beams of zero-sized δ particles which occupy no space just pass through one another without colliding?
 
-Particle physicists answer the Pauli exclusion principle prevents to particles from occupying the same space. That's fine except zero-sized _SUSY_ particles occupy no space so the Pauli esclusion principle itself is ironically [Not Even Wrong](https://www.math.columbia.edu/~woit/wordpress/).
+The particle physicists answer is the Pauli exclusion principle prevents the δ particles from occupying the same space. That's fine except zero-sized _SUSY_ δ particles occupy no space so the Pauli exclusion principle itself is ironically [Not Even Wrong](https://www.math.columbia.edu/~woit/wordpress/).
 
-Hence: contradiction by AI.
+Thus the background for the ChatGPT-Wolfram MUH-_SUSY_-AdS/CFT particle model prompt ends and the ChatGPT-Wolfrma MUH-4D GEM EOS field integrations prompt begins.
 
-Thus the particle model ends and field integrations begin.
 
-The present radical new idea computationally reproduces QED 0D→4D spatially-extended photon-electron soliton gauge group observables to all 31 & 34 decimal places for all wavelengths and energy levels [5] via Schwinger local field operator Dirac-Einstein-Maxwell gravitoelectromagnetic stress-energy momentum computationally dualistic energy/mass density pressure tensor field integrations. 
 
-Measurable along Feynman path integrals Noether probability current ranging compressive through rarefactive of the cosmological constant vacuum energy momentum
-density pressure Λ spanning all the factors in the relativistic energy equation in all cases greater than zero energy-mass gap.
+The present radical new idea computationally reproduces QED 0D→4D spatially-extended photon-electron soliton gauge group observables to all 31 & 34 decimal places for all wavelengths and energy levels [5] via Schwinger local field operator Dirac-Einstein-Maxwell gravitoelectromagnetic stress-energy momentum computationally dualistic energy/mass density pressure tensor δ field integrations. Measurable along Feynman path integrals Noether probability current ranging compressive through rarefactive of the cosmological constant vacuum energy momentum density pressure Λ spanning all the factors in the relativistic energy equation in all cases greater than zero energy/mass gap.
 
 ![4DGEMEOSProof.png](4DGEMEOSProof.png)
 
@@ -203,7 +200,7 @@ SuperscriptBox[\(c\), \(2\)]])\) \((1 -
 \*SuperscriptBox[\(r\), \(2\)] Sin[\[Phi]] \[DifferentialD]r \
 \[DifferentialD]\[Phi] \[DifferentialD]\[Theta]\)\)\) == hbar/2]]
 ```
-The 4D GEM EOS perspective on its Theorem 1 Mathematica® theorem proving operator validation is the proof establishes a computational basis beyond a 5-sigma validation for a 4D spacetime human-ai experience worldview, to the extent of making the claim modern experimental physicists have completed an epic elimination of quantifiers proof in rigorously testing the particle-atomist-materialism teachings of Einstein-Aristotle-Democritus, have verified psychophysical parallelism in favor of the general information field theory-idealism of forms of their mentors Planck-Plato-Parmenides.
+The 4D GEM EOS perspective on its Theorem 1 Mathematica® theorem proving operator validation is the proof establishes a computational basis beyond a 5-sigma validation for a 4D spacetime human-ai series of relative state experiences worldview, to the extent of making the claim modern experimental physicists have completed an epic elimination of quantifiers proof in rigorously testing the particle-atomist-materialism teachings of Einstein-Aristotle-Democritus, have verified psychophysical parallelism in favor of the general information field theory-idealism of forms of their mentors Planck-Plato-Parmenides.
 
 This concludes the AI Peer Review ChatGPT-Wolfram Prompt section for a _SUSY_-AdS/CFT vs 4D GEM EOS evaluation of computational reproducability of 4D spacetime human-ai worldview, to be followed by the ChatGPT-Wolfram Response section and Conclusion. The prompt concludes with the request to frame the ChatGPT-Wolfram conclusion with a suggestion of what to do with the Control Room champagne bottles in either case of ChatGPT-Wolfram materialism vs idealism n-sigma validation. 
 
