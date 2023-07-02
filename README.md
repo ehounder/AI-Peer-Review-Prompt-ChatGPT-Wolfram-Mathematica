@@ -40,13 +40,11 @@ Recently, at the [QNetworks April meeting 2022](https://www.quantumcommshub.net/
 
 > “Is quantum teleportation considered by most physicists based on some multi-body particle material mechanism or immaterial quantum information basis?”
 
-[Prof. Spiropulu: “Perhaps it does not have to be either/or.”](https://twitter.com/tensornerdo/status/1513572421839642624)
+> [Prof. Spiropulu: “Perhaps it does not have to be either/or.”](https://twitter.com/tensornerdo/status/1513572421839642624)
 
-Quantum teleportation, according to 4D GEM EOS, can only be occurring exclusively on a quantum information basis. The first principle for which being the LHC is entirely energized by the 4D spacetime Einstein-Maxwell electromagnetic stress-energy momentum density pressure tensor and its ATLAS CMS detectors measure only 4D electromagnetic energy density tensor pressure quantum field information.
+Quantum teleportation, according to 4D GEM EOS, is occurring exclusively on the basis of a general information field theory. The first principle for which being the LHC is entirely energized by the 4D spacetime Einstein-Maxwell electromagnetic stress-energy momentum density pressure tensor and its ATLAS CMS detectors measure only 4D electromagnetic energy density tensor pressure quantum field information.
 
-4D GEM EOS furthermore is based on the conceptual underpinnings of MUH, however  mathematical structure of a computable universe having parallel universe variations of physical dimensions, constants, and laws [7]. 
-
-Singular Complex System Conjecture (SCSC)
+4D GEM EOS is based on the conceptual underpinnings of MUH, however not postulating any such parallel universe variations of physical dimensions, constants, laws, and so on. Rather 4D GEM EOS is based on a singular MUH titled: [Singular Complex System Conjecture (SCSC)](https://www.researchgate.net/publication/338986496_Singular_Complex_System_Conjecture)
 
 The radical idea is based on the conjecture there exists a singular mathematically possible universal complex system of the 4D cylindrical spacetime dimensions, physical constants, laws, holographically bound energy/mass density distribution with time the fourth dimension of length from t~−∞~ → t~∞~ with the unitary factors in Euler’s identity e^iπ^ +1 = 0 composed via the concept of infinity with no free parameters [6].
 
