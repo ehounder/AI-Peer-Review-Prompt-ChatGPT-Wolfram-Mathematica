@@ -104,6 +104,10 @@ basis, since there are no hidden variable unknown material mechanisms
 then there are no hidden dualistic consciousness-material mechanisms
 somehow guiding the “collapse of the wavefunction” as it were.
 
+[“Visualizing the Proton” through animation and film](https://news.mit.edu/2022/visualizing-proton-through-animation-film-0425)
+
+[A New Experiment Casts Doubt on the Leading Theory of the Nucleus](https://www.quantamagazine.org/a-new-experiment-casts-doubt-on-the-leading-theory-of-the-nucleus-20230612/)
+
 ![4DGEMEOSProof.png](4DGEMEOSProof.png)
 
 **Fig. 4.** Mathematica® theorem proving operator 4D GEM EOS Theorem 1 Proof Standard Input Form
