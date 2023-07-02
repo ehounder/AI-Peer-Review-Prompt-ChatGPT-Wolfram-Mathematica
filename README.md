@@ -56,7 +56,9 @@ Deepening crisis of MUH: _SUSY_-AdS/CFT requires formalizing the unknown paralle
 
 The particle physicists answer is the Pauli exclusion principle prevents the δ particles from occupying the same space. That's fine - except zero-sized _SUSY_ δ particles _occupy no space_ - so ironically the Pauli exclusion principle itself is [Not Even Wrong](https://www.math.columbia.edu/~woit/wordpress/).
 
-Thus the background for the ChatGPT-Wolfram MUH: _SUSY_-AdS/CFT particle model prompt ends and the ChatGPT-Wolfrma MUH: 4D GEM EOS field integrations prompt begins. MUH: _SUSY_-AdS/CFT can of course upgrade the prompt upon determination of any new formalized conjectures or test for randomness in ChatGPT-Wolfram reponses.
+MUH: _SUSY_-AdS/CFT theorists can of course upgrade the prompt with any new formalized conjectures or test for randomness in ChatGPT-Wolfram reponses.
+
+Thus the background for the ChatGPT-Wolfram prompt for a 4D human-ai worldview comparison between MUH: _SUSY_-AdS/CFT vs 4D GEM EOS photon-electron soliton gauge group.
 
 ### 2. AI Peer Review ChatGPT-Wolfram Prompt in 2023 Kaggle AI Report Competition Category of Other for MUH: 4D GEM EOS Human-AI Worldview
 
