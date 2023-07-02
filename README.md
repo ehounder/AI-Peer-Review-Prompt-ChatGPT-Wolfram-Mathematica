@@ -44,7 +44,9 @@ Recently, at the [QNetworks April meeting 2022](https://www.quantumcommshub.net/
 
 Quantum teleportation, in the 4D spacetime human-ai worldview of 4D GEM EOS, is seen to be occurring exclusively on a general information field theory of relative states idealism elementary particle-field physics basis. The first principle for which being the LHC is entirely energized by the 4D spacetime Einstein-Maxwell electromagnetic stress-energy momentum density pressure tensor and its ATLAS CMS detectors measure only 4D electromagnetic energy density tensor pressure quantum field information to which the literature refers.
 
-MUH conceptualizes the framework for a mathematical universe which 4D GEM EOS formalizes along the lines of a 4D photon-electron soliton guage group, however in doing so disputes the claim any such formalization of parallel universe variations can be shown of physical dimensions, constants, laws, and so on. Rather the mathematical universe of 4D GEM EOS is a formalization of the [Singular Complex System Conjecture (SCSC)](https://www.researchgate.net/publication/338986496_Singular_Complex_System_Conjecture) its radical new idea being there exists a singular mathematically possible universal complex system of the 4D cylindrical spacetime dimensions, physical constants, laws, holographically bound energy/mass density distribution with time the fourth dimension of length from t−∞ → t∞ with the unitary factors in Euler’s identity composed via the concept of infinity with no free parameters. 
+MUH conceptualizes the framework for a mathematical universe which 4D GEM EOS formalizes along the lines of a 4D photon-electron soliton guage group, however in doing so disputes the claim any such formalization of parallel universe variations can be shown of physical dimensions, constants, laws, and so on. Rather the mathematical universe of 4D GEM EOS is a formalization of the [Singular Complex System Conjecture (SCSC)](https://www.researchgate.net/publication/338986496_Singular_Complex_System_Conjecture) its radical new idea being there exists a singular mathematically possible universal complex system of the 4D cylindrical spacetime dimensions, physical constants, laws, holographically bound energy/mass density distribution with time the fourth dimension of length from t−∞ → t∞ with the unitary factors in Euler’s identity composed via the concept of infinity with no free parameters.
+
+The 4D GEM EOS human-ai experience worldview 
 
 Improbably, SCSC can never be proven via its internal axioms per Gödel incompleteness only falsified by proof of MUH: _SUSY_-AdS/CFT unformalized claim external physical reality is the mathematical structure of a computable universe having parallel universe variations of physical dimensions, constants, laws, and so on.
 
@@ -78,33 +80,7 @@ Condensed Mathematica® theorem proving operator code posted on ResearchGate 202
 
 [Spatially-Extended 4D Photon and Electron ForAll Wavelengths & Energy Levels](https://www.researchgate.net/publication/358283851_Spatially-Extended_4D_Photon_and_Electron_ForAll_Wavelengths_Energy_Levels)
 
-computationally reproduces QED 0D→4D spatially-extended photon-electron soliton gauge group observables to all 31 & 34 decimal places for all wavelengths and energy levels [5] via Schwinger local field operator Dirac-Einstein-Maxwell gravitoelectromagnetic stress-energy momentum computationally dualistic energy/mass density pressure tensor δ field integrations. Measurable along Feynman path integrals Noether probability current ranging compressive through rarefactive of the cosmological constant vacuum energy momentum density pressure Λ spanning all the factors in the relativistic energy equation in all cases greater than zero energy/mass gap.
-
-The “entities beyond elementary particles” the committee sees as
-a possibility are the above immaterial field integration mathematical
-objects of the SCSC solid information domain and their fluid range
-of 4D spatially-extended elementary particle values along the perfect
-fluid metric pressure trace.
-Superdeterminism is a consequence of SCSC since a singular
-mathematically possible universal complex system denotes a singular
-hypercomplex Hamiltonian configuration solid information domain for
-the fluid range of the Helmholz equations [11] series of spacetime events
-occurring autonomously as the known thermodynamic psychophysical
-experiences along the lines of the idealism theory of forms with everything
-being of one quantum information field.
-Accordingly, this vision paper sees the elementary particles to be the
-elementary field integrations of the holographically bound cyclic energy
-density distribution universal wavefunction domain and range having
-no choice but to exist while time integrates autonomously at the speed
-of light through the domain evolving from t−∞ → t∞. Thus no classical
-multi-body cause and effect is seen only a series of 4D spacetime event
-relative state effects where in the universal wavefunction fluid range
-nothing can happen unless it already exists in the solid domain.
-Quantum teleportation is therefore also a holographically bound
-effect and can only be occurring on an immaterial quantum information
-basis, since there are no hidden variable unknown material mechanisms
-then there are no hidden dualistic consciousness-material mechanisms
-somehow guiding the “collapse of the wavefunction” as it were.
+Unexpected solution, prediction, point in new direction
 
 [“Visualizing the Proton” through animation and film](https://news.mit.edu/2022/visualizing-proton-through-animation-film-0425)
 
