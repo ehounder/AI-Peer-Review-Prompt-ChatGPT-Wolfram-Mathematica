@@ -40,7 +40,7 @@ Recently, at the QNetworks April meeting 2022, Prof. Spiropulu gave a talk on he
 
 > “Is quantum teleportation considered by most physicists based on some multi-body particle material mechanism or immaterial quantum information basis?”
 
-Prof. Spiropulu: “Perhaps it does not have to be either/or.”
+[Prof. Spiropulu: “Perhaps it does not have to be either/or.”](https://twitter.com/tensornerdo/status/1513572421839642624)
 
 Quantum teleportation, as we see it, is occurring exclusively on a
 quantum information basis. So this vision paper starts from the first
@@ -51,8 +51,6 @@ energy density tensor pressure quantum field information.
 The present radical new idea computationally reproduces QED 0D→4D
 spatially-extended photon-electron soliton gauge group observables to
 all 31 & 34 decimal places for all wavelengths and energy levels [5] via
-Complex Systems, volume (year) 1–1+; year Complex Systems Publications, Inc.
-2 David A. Harness
 Schwinger local field operator Dirac-Einstein-Maxwell gravitoelectromagnetic
 stress-energy momentum computationally dualistic energymass
 density pressure tensor field integrations. Measurable along Feynman
