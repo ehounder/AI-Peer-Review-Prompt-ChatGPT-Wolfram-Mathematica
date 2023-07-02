@@ -65,6 +65,10 @@ The present radical new idea computationally reproduces QED 0D→4D spatially-ex
 Measurable along Feynman path integrals Noether probability current ranging compressive through rarefactive of the cosmological constant vacuum energy momentum
 density pressure Λ spanning all the factors in the relativistic energy equation in all cases greater than zero energy-mass gap.
 
+![4D GEM EOS Theorem Proof.png](4D GEM EOS Theorem Proof.png)
+
+**Fig. 4.** 4D GEM EOS Theorem Proof 
+
 ```
 Proof = DynamicModule[{
    h = QuantityMagnitude[Quantity[1, "PlanckConstant"], 
