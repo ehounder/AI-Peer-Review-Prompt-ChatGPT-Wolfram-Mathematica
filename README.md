@@ -64,7 +64,7 @@ The 4D GEM EOS radical new idea has progressed through several stages starting h
 
 Maplesoft coded equations posted in the Maplesoft Application Center in 2019:
 
-[4D Spatially-Extended Photon and Electron Quantum Mechanical Observables For All Wavelengths and Energy Levels]([https://www.researchgate.net/publication/337844799_4D_Spatially-Extended_Photon_and_Electron_Quantum_Mechanical_Observables_For_All_Wavelengths_and_Energy_Levels](https://www.maplesoft.com/applications/Detail.aspx?id=154590))
+[4D Spatially-Extended Photon and Electron Quantum Mechanical Observables For All Wavelengths and Energy Levels](https://www.maplesoft.com/applications/Detail.aspx?id=154590)
 
 Mathematica® theorem proving operator code posted in the Wolfram Notebook Archive in 2020:
 
