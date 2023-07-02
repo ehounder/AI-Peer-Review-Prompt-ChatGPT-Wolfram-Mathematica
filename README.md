@@ -30,4 +30,6 @@ Both Chamberlain and Seaborg gave the exact same answer:
 
 > "We don't know how that works." 
 
-Hence the [deepening crisis forcing physicists to rethink the structure of nature's laws](https://www.quantamagazine.org/crisis-in-particle-physics-forces-a-rethink-of-what-is-natural-20220301/) runs much deeper. 
+Hence the [deepening crisis forcing physicists to rethink the structure of nature's laws](https://www.quantamagazine.org/crisis-in-particle-physics-forces-a-rethink-of-what-is-natural-20220301/) runs much deeper. Consider of course all the foremost modern physicists from Einstein to Feynman have stated in various terms nobody understands how quantum mechanics works. Einstein famously held the belief there must be some hidden material mechanism variables guiding the collapse of the superpositioned quantum mechanical states into the 4D spacetime human experiences. Planck somewhat less famously held the belief:
+
+>
