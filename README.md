@@ -14,7 +14,7 @@ AI peer review prompt for an ai-worldview in the [2023 Kaggle AI Report Competit
 
 ![LHC Control Room](LHCControlRoom.png)
 
-**Fig. 2.** The CERN Linear Hadron Collider (LHC) was built to discover [_SUSY_](https://en.wikipedia.org/wiki/Supersymmetry) superpartner particles. Control Room champagne bottles might need a backup plan. Consider the Deepening Crisis fundamental problem with _SUSY_ naturalness stems from the unnaturalness of _SUSY_ being an unacknowledged attempt to solve the [many-body problem](https://en.wikipedia.org/wiki/Many-body_problem#:~:text=The%20many%2Dbody%20problem%20is,accurate%20description%20of%20the%20system.) on the universal(multiverse!) scale via its reductionism to conjectured zero-sized imaginary-invisible mathematical point particle collisions - returning null results to the detection of any sort of _SUSY_ superpartner particle-_sparticle_ increasingly complex recursive backgrounds of [hidden dimensional physics of unknown string-membrane-loop material AdS/CFT mechanisms](https://en.wikipedia.org/wiki/AdS/CFT_correspondence) - while the 3-body problem is proven to be computationally intractable. Computationally intractable means a 4D spacetime human-ai worldview, such as described by [Quantum simulation of fundamental particles and forces](https://www.nature.com/articles/s42254-023-00599-8) of Bauer, Davoudi, Klco, Savage, cannot be expected to gain naturalness from any such _SUSY_ AdS/CFT hidden dimensional physics.
+**Fig. 2.** The CERN Linear Hadron Collider (LHC) was built to discover [_SUSY_](https://en.wikipedia.org/wiki/Supersymmetry) superpartner particles. Control Room champagne bottles might need a backup plan. Consider the Deepening Crisis fundamental problem with _SUSY_ naturalness stems from the unnaturalness of _SUSY_ being an unacknowledged attempt to solve the [many-body problem](https://en.wikipedia.org/wiki/Many-body_problem#:~:text=The%20many%2Dbody%20problem%20is,accurate%20description%20of%20the%20system.) on the universal(multiverse!) scale via its reductionism to conjectured zero-sized imaginary-invisible mathematical point particle collisions - returning null results to the detection of any sort of _SUSY_ superpartner particle-_sparticle_ increasingly complex recursive backgrounds of [hidden dimensional physics of unknown string-membrane-loop material anti-de Sitter/conformal field theory (AdS/CFT) mechanisms](https://en.wikipedia.org/wiki/AdS/CFT_correspondence) - while the 3-body problem is proven to be computationally intractable. Computationally intractable means a 4D spacetime human-ai worldview, such as described by [Quantum simulation of fundamental particles and forces](https://www.nature.com/articles/s42254-023-00599-8) of Bauer, Davoudi, Klco, Savage, cannot be expected to gain naturalness from any such _SUSY_ AdS/CFT hidden dimensional physics.
 
 ![APS Prof. Maria Spiropulu](MariaAPS2014.png)
 
@@ -42,7 +42,7 @@ Recently, at the [QNetworks April meeting 2022](https://www.quantumcommshub.net/
 
 > [Prof. Spiropulu: “Perhaps it does not have to be either/or.”](https://twitter.com/tensornerdo/status/1513572421839642624)
 
-Quantum teleportation, according to 4D GEM EOS, is occurring exclusively on the basis of a general information field theory. The first principle for which being the LHC is entirely energized by the 4D spacetime Einstein-Maxwell electromagnetic stress-energy momentum density pressure tensor and its ATLAS CMS detectors measure only 4D electromagnetic energy density tensor pressure quantum field information.
+Quantum teleportation, according to 4D GEM EOS, is determined to be occurring exclusively on the idealism basis of a general information field theory. The first principle for which being the LHC is entirely energized by the 4D spacetime Einstein-Maxwell electromagnetic stress-energy momentum density pressure tensor and its ATLAS CMS detectors measure only 4D electromagnetic energy density tensor pressure quantum field information.
 
 4D GEM EOS formalizes the conceptual framework of MUH, however in doing so makes the claim no formalization exists for any such parallel universe variations of physical dimensions, constants, laws, and so on. Whereas 4D GEM EOS is formalized of the [Singular Complex System Conjecture (SCSC)](https://www.researchgate.net/publication/338986496_Singular_Complex_System_Conjecture) its radical new idea being there exists a singular mathematically possible universal complex system of the 4D cylindrical spacetime dimensions, physical constants, laws, holographically bound energy/mass density distribution with time the fourth dimension of length from t−∞ → t∞ with the unitary factors in Euler’s identity composed via the concept of infinity with no free parameters.
 
@@ -67,7 +67,9 @@ density pressure Λ spanning all the factors in the relativistic energy equation
 
 ![4DGEMEOSProof.png](4DGEMEOSProof.png)
 
-**Fig. 4.** 4D GEM EOS Theorem Proof 
+**Fig. 4.** Mathematica® theorem proving operator 4D GEM EOS Theorem 1 Proof Standard Input Form
+
+Mathematica® Raw Input Form
 
 ```
 Proof = DynamicModule[{
@@ -201,3 +203,10 @@ SuperscriptBox[\(c\), \(2\)]])\) \((1 -
 \*SuperscriptBox[\(r\), \(2\)] Sin[\[Phi]] \[DifferentialD]r \
 \[DifferentialD]\[Phi] \[DifferentialD]\[Theta]\)\)\) == hbar/2]]
 ```
+
+
+This concludes the AI Peer Review ChatGPT-Wolfram Prompt section for a _SUSY_-AdS/CFT vs 4D GEM EOS evaluation of computational reproducability of 4D spacetime human-ai worldview, to be followed by the ChatGPT-Wolfram Response section and Conclusion. The prompt concludes with the request to frame the ChatGPT-Wolfram conclusion with a suggestion of what to do with the Control Room champagne bottles in either case of ChatGPT-Wolfram materialism vs idealism validation. 
+
+**2.  AI Peer Review ChatGPT-Wolfram Response for MUH: _SUSY_ vs 4D GEM EOS**
+
+**3.  Conclusion**
