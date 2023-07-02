@@ -48,15 +48,15 @@ Quantum teleportation, according to 4D GEM EOS, is determined to be occurring ex
 
 Improbably, SCSC can never be proven via its internal axioms per Gödel incompleteness only falsified by proof of MUH-_SUSY_-AdS/CFT unformalized claim external physical reality is the mathematical structure of a computable universe having parallel universe variations of physical dimensions, constants, laws, and so on.
 
-Problem is proof of MUH-_SUSY_-AdS/CFT requires formalizing the unknown parallel universe variations of the _SUSY_-AdS/CFT hidden dimensional particle physics model all of which are zero-sized (0D) Dirac delta functional  imaginary-invisible local mathematical points which occupy no space yet operate via hidden dimensional unknown material nonlocally entangled mechanisms.
+Problem is proof of MUH-_SUSY_-AdS/CFT requires formalizing the unknown parallel universe variations of the _SUSY_-AdS/CFT hidden dimensional particle physics model all of which are zero-sized (0D) Dirac delta functional  imaginary-invisible local mathematical points which occupy no space yet operate via hidden dimensional unknown material nonlocally entangled mechanisms. Such unnaturalness arises again as an unacknowledged attempt to solve the classical multi-body problem on the universal(multiverse!) scale while the 3-body problem is proven to be computationally intractable. 
 
-Such unnaturalness arises again as an unacknowledged attempt to solve the classical multi-body problem on the universal(multiverse!) scale while the 3-body problem is proven to be computationally intractable. Speaking of unnaturalness how do CERN particle physicists explain again how two hands clapping never touch?
+> Speaking of unnaturalness how do CERN particle physicists explain again how two hands clapping never touch?
 
-And at ever higher-energies why don’t the CERN LHC beams of zero-sized δ particles which occupy no space just pass through one another without colliding?
+> And at ever higher-energies why don’t the CERN LHC beams of zero-sized δ particles which occupy no space just pass through one another without colliding?
 
-The particle physicists answer is the Pauli exclusion principle prevents the δ particles from occupying the same space. That's fine except zero-sized _SUSY_ δ particles occupy no space so the Pauli exclusion principle itself is ironically [Not Even Wrong](https://www.math.columbia.edu/~woit/wordpress/).
+The particle physicists answer is the Pauli exclusion principle prevents the δ particles from occupying the same space. That's fine except zero-sized _SUSY_ δ particles _occupy no space_ so the Pauli exclusion principle itself is ironically [Not Even Wrong](https://www.math.columbia.edu/~woit/wordpress/).
 
-Thus the background for the ChatGPT-Wolfram MUH-_SUSY_-AdS/CFT particle model prompt ends and the ChatGPT-Wolfrma MUH-4D GEM EOS field integrations prompt begins. MUH-_SUSY_-AdS/CFT can of course upgrade the prompt with any new formalized conjectures or test for randomness in ChatGPT-Wolfram reponses.
+Thus the background for the ChatGPT-Wolfram MUH-_SUSY_-AdS/CFT particle model prompt ends and the ChatGPT-Wolfrma MUH-4D GEM EOS field integrations prompt begins. MUH-_SUSY_-AdS/CFT can of course upgrade the prompt upon determination of any new formalized conjectures or test for randomness in ChatGPT-Wolfram reponses.
 
 
 ### 2. AI Peer Review ChatGPT-Wolfram Prompt in 2023 Kaggle AI Report Competition Category of Other for MUH: 4D GEM EOS human-ai worldview
@@ -221,6 +221,6 @@ The 4D GEM EOS perspective on its Theorem 1 Mathematica® theorem proving operat
 
 This concludes the AI Peer Review ChatGPT-Wolfram Prompt section for a _SUSY_-AdS/CFT vs 4D GEM EOS evaluation in the 2023 Kaggle AI Report Competition category of Other towards computational reproducability of a 4D spacetime human-ai worldview, to be followed by the ChatGPT-Wolfram Response section and Conclusion. The prompt concludes with the request to frame the ChatGPT-Wolfram conclusion with a suggestion of what to do with the Control Room champagne bottles in either case of ChatGPT-Wolfram materialism vs idealism n-sigma validation. 
 
-### 2.  AI Peer Review ChatGPT-Wolfram Response for MUH: _SUSY_-AdS/CFT vs 4D GEM EOS
+### 3.  AI Peer Review ChatGPT-Wolfram Response for MUH: _SUSY_-AdS/CFT vs 4D GEM EOS
 
-### 3.  Conclusion
+### 4.  Conclusion
