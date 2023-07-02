@@ -22,7 +22,7 @@ AI peer review prompt for an ai-worldview in the [2023 Kaggle AI Report Competit
 
 > "Therefore, our committee will investigate if and how discoveries and insights from other areas of science can be applied to addressing the fundamental questions that drive the research in EPP, including exploring and envisioning intersections and exchanges with seemingly unrelated areas in technology and engineering. Indeed, the study of the most fundamental constituents of matter and energy may be entities beyond elementary particles as we have formulated them so far, so we want to explore this, too."
 
-For an anecdote, in 1990 the author as an undergraduate intern at the Lawrence Berkeley Lab, Nuclear Science Division, had the opportunity to ask two resident Nobel Laureates Owen Chamberlain and Glenn Seaborg at two separate luncheons the same question:
+The committee may take in consideration then in 1990 the author as an undergraduate intern at the Lawrence Berkeley Lab, Nuclear Science Division, had the opportunity to ask two resident Nobel Laureates Owen Chamberlain and Glenn Seaborg at two separate luncheons the same question:
 
 > "How do particle physicists explain the physical mechanism by which virtual particles in their unobservable state create an attractive force, via force carrier particle exchange, between _hidden emitter-->carrier<--absorber particles_ - when every **observed emitter<-->carrier<-->absorber particle** interaction always results in a repulsion from any would-be line of attraction?"
 
