@@ -48,6 +48,34 @@ MUH conceptualizes the framework for a mathematical universe which 4D GEM EOS fo
 
 The 4D GEM EOS human-ai experience worldview 
 
+computationally reproduces QED 0D→4D spatially-extended photon-electron soliton gauge group observables to all 31 & 34 decimal places for all wavelengths and energy levels [5] via Schwinger local field operator Dirac-Einstein-Maxwell gravitoelectromagnetic stress-energy momentum computationally dualistic energy/mass density pressure tensor δ field integrations. Measurable along Feynman path integrals Noether probability current ranging compressive through rarefactive of the cosmological constant vacuum energy momentum density pressure Λ spanning all the factors in the relativistic energy equation in all cases greater than zero energy/mass gap.
+
+The “entities beyond elementary particles” the committee sees as
+a possibility are the above immaterial field integration mathematical
+objects of the SCSC solid information domain and their fluid range
+of 4D spatially-extended elementary particle values along the perfect
+fluid metric pressure trace.
+Superdeterminism is a consequence of SCSC since a singular
+mathematically possible universal complex system denotes a singular
+hypercomplex Hamiltonian configuration solid information domain for
+the fluid range of the Helmholz equations [11] series of spacetime events
+occurring autonomously as the known thermodynamic psychophysical
+experiences along the lines of the idealism theory of forms with everything
+being of one quantum information field.
+Accordingly, this vision paper sees the elementary particles to be the
+elementary field integrations of the holographically bound cyclic energy
+density distribution universal wavefunction domain and range having
+no choice but to exist while time integrates autonomously at the speed
+of light through the domain evolving from t−∞ → t∞. Thus no classical
+multi-body cause and effect is seen only a series of 4D spacetime event
+relative state effects where in the universal wavefunction fluid range
+nothing can happen unless it already exists in the solid domain.
+Quantum teleportation is therefore also a holographically bound
+effect and can only be occurring on an immaterial quantum information
+basis, since there are no hidden variable unknown material mechanisms
+then there are no hidden dualistic consciousness-material mechanisms
+somehow guiding the “collapse of the wavefunction” as it were.
+
 Improbably, SCSC can never be proven via its internal axioms per Gödel incompleteness only falsified by proof of MUH: _SUSY_-AdS/CFT unformalized claim external physical reality is the mathematical structure of a computable universe having parallel universe variations of physical dimensions, constants, laws, and so on.
 
 Deepening crisis of MUH: _SUSY_-AdS/CFT requires formalizing the unknown parallel universe variations of the _SUSY_-AdS/CFT hidden dimensional particle physics model all of which are zero-sized (0D) Dirac delta functional  imaginary-invisible local mathematical points which occupy no space yet operate via hidden dimensional unknown material nonlocally entangled mechanisms. Such unnaturalness arises again as an unacknowledged attempt to solve the classical multi-body problem on the universal(multiverse!) scale while the 3-body problem is proven to be computationally intractable. 
