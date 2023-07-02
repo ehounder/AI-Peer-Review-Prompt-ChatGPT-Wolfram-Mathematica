@@ -34,7 +34,7 @@ Hence the [deepening crisis forcing physicists to rethink the structure of natur
 
 > “As a man who has devoted his whole life to the most clearheaded science, to the study of matter, I can tell you as a result of my research about the atoms this much: There is no matter as such! All matter originates and exists only by virtue of a force which brings the particles of an atom to vibration and holds this most minute solar system of the atom together.... We must assume behind this force the existence of a conscious and intelligent Mind. This Mind is the matrix of all matter.”
 
-In terms then of the modern form of _The School of Athens_ debate the views of Einstein are aligned with the atomist-materialism of Aristotle-Democritus vs the views of his mentor Planck being aligned with the theory of forms-idealism of Plato-Parmenides.
+In terms then of the modern form of _The School of Athens_ debate the views of Einstein are aligned with the particle-atomist-materialism of Aristotle-Democritus vs the views of his mentor Planck being aligned with the general information field theory of forms-idealism of Plato-Parmenides.
 
 Recently, at the [QNetworks April meeting 2022](https://www.quantumcommshub.net/event/save-the-date-qnetworks-2022/?return=https%3A%2F%2Fwww.quantumcommshub.net%2Fevent%2Fsite%2Fresearch-community%2F2022%2F&site=research-community), Prof. Spiropulu gave a talk on her Quantum Teleportation Networks after which the author was further fortunate enough to ask:
 
@@ -46,11 +46,13 @@ Quantum teleportation, according to 4D GEM EOS, is occurring exclusively on the 
 
 4D GEM EOS formalizes the conceptual framework of MUH, however in doing so making the claim no formalization exists for any such parallel universe variations of physical dimensions, constants, laws, and so on. Rather 4D GEM EOS is formalized of the [Singular Complex System Conjecture (SCSC)](https://www.researchgate.net/publication/338986496_Singular_Complex_System_Conjecture) its radical new idea being there exists a singular mathematically possible universal complex system of the 4D cylindrical spacetime dimensions, physical constants, laws, holographically bound energy/mass density distribution with time the fourth dimension of length from t−∞ → t∞ with the unitary factors in Euler’s identity e^i^^π^ +1 = 0 composed via the concept of infinity with no free parameters.
 
-Improbably, SCSC can never be proven via its internal axioms per Gödel incompleteness only falsified by proof of the Mathematical Universe Hypothesis (MUH) unformalized claim external physical reality is the mathematical structure of a computable universe having parallel universe variations of physical dimensions, constants, and laws [7].
+Improbably, SCSC can never be proven via its internal axioms per Gödel incompleteness only falsified by proof of MUH-_SUSY_ unformalized claim external physical reality is the mathematical structure of a computable universe having parallel universe variations of physical dimensions, constants, laws, and so on.
 
-Problem is proof of MUH requires formalizing the unknown parallel universe variations of the Supersymmetry (SUSY ) particle model all of which are zero-sized (0D) Dirac delta functional δ imaginary-invisible local mathematical points which occupy no space yet operate via hidden dimensional unknown material nonlocally entangled mechanisms.
+Problem is proof of MUH-_SUSY_ requires formalizing the unknown parallel universe variations of the _SUSY_ AdS/CFT hidden dimensional particle physics model all of which are zero-sized (0D) Dirac delta functional δ imaginary-invisible local mathematical points which occupy no space yet operate via hidden dimensional unknown material nonlocally entangled mechanisms.
 
 Such unnaturalness arises as an unacknowledged attempt to solve the classical multi-body problem on the universal(multiverse!) scale while the 3-body problem is proven to be computationally intractable. Computationally intractable means an AI worldview cannot be computationally reproduced from the SUSY hidden dimensional physics mechanisms. 
+
+How is it two hands clapping never touch?
 
 And at ever higher-energies why don’t the LHC beams of zero-sized particles which occupy no space just pass through one another without colliding?
 
