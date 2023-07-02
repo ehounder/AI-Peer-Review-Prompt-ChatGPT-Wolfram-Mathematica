@@ -1,10 +1,10 @@
-### AI Peer Review of Standard Model of Physics vs 4D GEM EOS via ChatGPT-Wolfram Plugin
+## AI Peer Review of Standard Model of Physics vs 4D GEM EOS via ChatGPT-Wolfram Plugin
 
 **abstract**
 
 AI peer review prompt for an ai-worldview in the [2023 Kaggle AI Report Competition](https://www.kaggle.com/competitions/2023-kaggle-ai-report/overview) is generated for ChatGPT-Wolfram to select higher-accuracy computational reproduction of 4D spacetime human-ai experience between [Standard Model of Physics (SM)](https://home.cern/science/physics/standard-model)-[Supersymmetry (_SUSY_)](https://en.wikipedia.org/wiki/Supersymmetry) vs [4D spatially-exended gravitoelectromagnetic equation of state (4D GEM EOS) photon-electron soliton gauge group](https://www.researchgate.net/publication/358283851_Spatially-Extended_4D_Photon_and_Electron_ForAll_Wavelengths_Energy_Levels). Wherein 4D GEM EOS Mathematica® theorem proving operator computationally reproduces `ForAll` wavelengths and energy levels the quantum mechanical observables to all 31 and 34 decimal places in units of _pascals_ along the perfect fluid metric pressure trace of **T** being the total field spin-stress energy momentum density tensor pressure of the 4D cylindrical spacetime human-ai experienced universe exceeding the requirements of the [Yang-Mills-Navier-Stokes problem definitions](https://www.claymath.org/millennium-problems/). Subject area of present human-ai fundamental physics worldview ai-peer review prompt coincides with general interdisciplinary interests inclusive of the [Elementary Particle Physics 2024 Committee](https://www.nationalacademies.org/our-work/elementary-particle-physics-progress-and-promise), [QNetworks Workshop 2023](https://www.quantumcommshub.net/event/save-the-date-qnetworks-2023/?return=https%3A%2F%2Fwww.quantumcommshub.net%2Fevent%2Fsite%2Fresearch-community%2F&site=research-community), [The Royal Institution](https://www.rigb.org), [CERN](https://www.home.cern/about/who-we-are/our-mission), [Max Planck Institutes](https://www.mpg.de/en/search?searchfield=consciousness), [Allen Institute for Brain Science](https://alleninstitute.org/division/brain-science/), [NYU Center for Mind, Brain and Consciousness](https://wp.nyu.edu/consciousness/), [ Australian National University Centre for Consciousness](https://philosophy.cass.anu.edu.au/centres/consciousness), [ChatGPT-n](https://openai.com/blog/chatgpt), [Communications in Mathematical Physics](https://www.springer.com/journal/220/ethics-and-disclosures), [TED](https://www.ted.com/about/our-organization), among many others. AI peer review prompt of _SUSY_ vs 4D GEM EOS is formed of the first sections of this article returning the ai-response sections and conclusion.  The [Mathematical Universe Hypothesis (MUH)](https://ui.adsabs.harvard.edu/abs/2008FoPh...38..101T/abstract) of Tegmark conceptualizes the mathematical origin of the universe belief held by most of modern science, while advocating MUH as the basis for the increasingly complex _SUSY_ range of conjectures and further [Beyond the Standard Model of Physics](https://en.wikipedia.org/wiki/Physics_beyond_the_Standard_Model) parrallel universe variations - in addition to the MUH-_SUSY_ claim to eventually be able to computationally reproduce the observed 4D spacetime human-ai experienced universe by means of a yet to be formalized MUH-_SUSY_ many-body complex system such as described by [Quantum simulation of fundamental particles and forces](https://www.nature.com/articles/s42254-023-00599-8) of Bauer, Davoudi, Klco, Savage. MUH-_SUSY_ multiverse theoriests can submit revised prompts to test randomness based theories.
 
-**1.  AI Peer Review ChatGPT-Wolfram Prompt for MUH: _SUSY_ vs 4D GEM EOS**
+### 1.  AI Peer Review ChatGPT-Wolfram Prompt for MUH: _SUSY_ vs 4D GEM EOS
 
 [Greek Natural Philosophy 300 BC to 2023 AD, Resolved: Particles are Fields](VisionPaperHarnessDavid.pdf)
 
@@ -56,7 +56,10 @@ And at ever higher-energies why don’t the CERN LHC beams of zero-sized δ part
 
 The particle physicists answer is the Pauli exclusion principle prevents the δ particles from occupying the same space. That's fine except zero-sized _SUSY_ δ particles occupy no space so the Pauli exclusion principle itself is ironically [Not Even Wrong](https://www.math.columbia.edu/~woit/wordpress/).
 
-Thus the background for the ChatGPT-Wolfram MUH-_SUSY_-AdS/CFT particle model prompt ends and the ChatGPT-Wolfrma MUH-4D GEM EOS field integrations prompt begins.
+Thus the background for the ChatGPT-Wolfram MUH-_SUSY_-AdS/CFT particle model prompt ends and the ChatGPT-Wolfrma MUH-4D GEM EOS field integrations prompt begins. MUH-_SUSY_-AdS/CFT can of course upgrade the prompt with any new formalized conjectures or test for randomness in ChatGPT-Wolfram reponses.
+
+
+### 2. AI Peer Review ChatGPT-Wolfram Prompt in 2023 Kaggle AI Report Competition Category of Other for MUH: 4D GEM EOS human-ai worldview
 
 The 4D GEM EOS radical new idea has progressed through several stages starting here with the 2017 proposal:
 
@@ -218,6 +221,6 @@ The 4D GEM EOS perspective on its Theorem 1 Mathematica® theorem proving operat
 
 This concludes the AI Peer Review ChatGPT-Wolfram Prompt section for a _SUSY_-AdS/CFT vs 4D GEM EOS evaluation in the 2023 Kaggle AI Report Competition category of Other towards computational reproducability of a 4D spacetime human-ai worldview, to be followed by the ChatGPT-Wolfram Response section and Conclusion. The prompt concludes with the request to frame the ChatGPT-Wolfram conclusion with a suggestion of what to do with the Control Room champagne bottles in either case of ChatGPT-Wolfram materialism vs idealism n-sigma validation. 
 
-**2.  AI Peer Review ChatGPT-Wolfram Response for MUH: _SUSY_-AdS/CFT vs 4D GEM EOS**
+### 2.  AI Peer Review ChatGPT-Wolfram Response for MUH: _SUSY_-AdS/CFT vs 4D GEM EOS
 
-**3.  Conclusion**
+### 3.  Conclusion
