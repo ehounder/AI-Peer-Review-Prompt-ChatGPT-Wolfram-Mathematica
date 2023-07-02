@@ -22,7 +22,7 @@ AI peer review prompt for an ai-worldview in the [2023 Kaggle AI Report Competit
 
 > "Therefore, our committee will investigate if and how discoveries and insights from other areas of science can be applied to addressing the fundamental questions that drive the research in EPP, including exploring and envisioning intersections and exchanges with seemingly unrelated areas in technology and engineering. Indeed, the study of the most fundamental constituents of matter and energy may be entities beyond elementary particles as we have formulated them so far, so we want to explore this, too."
 
-The committee may take in consideration then in 1990 the author as an undergraduate intern at the Lawrence Berkeley Lab, Nuclear Science Division, had the opportunity to ask two resident Nobel Laureates Owen Chamberlain and Glenn Seaborg at two separate luncheons the same question:
+The committee may take in consideration then in 1990 the author as an undergraduate intern at the Lawrence Berkeley Lab, Nuclear Science Division, was fortunate enough to ask, at two separate luncheons, two LBL resident Nobel Laureates Owen Chamberlain and Glenn Seaborg the same question:
 
 > "How do particle physicists explain the physical mechanism by which virtual particles in their unobservable state create an attractive force, via force carrier particle exchange, between _hidden emitter-->carrier<--absorber particles_ - when every **observed emitter<-->carrier<-->absorber particle** interaction always results in a repulsion from any would-be line of attraction?"
 
@@ -36,7 +36,7 @@ Hence the [deepening crisis forcing physicists to rethink the structure of natur
 
 In terms then of the modern form of _The School of Athens_ debate the views of Einstein are aligned with the atomist-materialism of Aristotle-Democritus vs the views of his mentor Planck being aligned with the theory of forms-idealism of Plato-Parmenides.
 
-Recently, at the QNetworks April meeting 2022, Prof. Spiropulu gave a talk on her Quantum Teleportation Networks after which the author was further fortunate enough to ask:
+Recently, at the [QNetworks April meeting 2022](https://www.quantumcommshub.net/event/save-the-date-qnetworks-2022/?return=https%3A%2F%2Fwww.quantumcommshub.net%2Fevent%2Fsite%2Fresearch-community%2F2022%2F&site=research-community), Prof. Spiropulu gave a talk on her Quantum Teleportation Networks after which the author was further fortunate enough to ask:
 
 > “Is quantum teleportation considered by most physicists based on some multi-body particle material mechanism or immaterial quantum information basis?”
 
