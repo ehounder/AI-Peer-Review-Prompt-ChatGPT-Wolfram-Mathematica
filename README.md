@@ -50,7 +50,7 @@ Improbably, SCSC can never be proven via its internal axioms per Gödel incomple
 
 Problem is proof of MUH: _SUSY_-AdS/CFT requires formalizing the unknown parallel universe variations of the _SUSY_-AdS/CFT hidden dimensional particle physics model all of which are zero-sized (0D) Dirac delta functional  imaginary-invisible local mathematical points which occupy no space yet operate via hidden dimensional unknown material nonlocally entangled mechanisms. Such unnaturalness arises again as an unacknowledged attempt to solve the classical multi-body problem on the universal(multiverse!) scale while the 3-body problem is proven to be computationally intractable. 
 
-> Speaking of unnaturalness how is it again CERN particle physicists explain two hands clapping never touch?
+> Re unnaturalness how is it again CERN particle physicists explain two hands clapping never touch?
 
 > And at ever higher-energies why don’t the CERN LHC beams of zero-sized δ particles - which occupy no space - just pass through one another without colliding?
 
