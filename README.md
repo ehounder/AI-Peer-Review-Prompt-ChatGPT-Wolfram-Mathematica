@@ -64,7 +64,7 @@ Deepening crisis of MUH: _SUSY_-AdS/CFT requires formalizing the unknown paralle
 
 > And at ever higher-energies why don’t the CERN LHC beams of zero-sized δ particles - which occupy no space - just pass through one another without colliding?
 
-The particle physicists answer is the Pauli exclusion principle prevents the δ particles from occupying the same space. That's fine - except zero-sized _SUSY_ δ particles _occupy no space_ - so ironically the Pauli exclusion principle itself is [Not Even Wrong](https://www.math.columbia.edu/~woit/wordpress/).
+The particle physicists answer is the Pauli exclusion principle prevents the δ particles from occupying the same space. Notice however - zero-sized _SUSY_ δ particles _occupy no space_ - so ironically the Pauli exclusion principle itself is [Not Even Wrong](https://www.math.columbia.edu/~woit/wordpress/).
 
 MUH: _SUSY_-AdS/CFT theorists can of course upgrade the prompt with any new formalized conjectures or test for randomness in ChatGPT-Wolfram reponses.
 
