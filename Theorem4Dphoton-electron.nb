@@ -1,0 +1,100 @@
+(* Content-type: application/vnd.wolfram.mathematica *)
+
+(*** Wolfram Notebook File ***)
+(* http://www.wolfram.com/nb *)
+
+(* CreatedBy='Mathematica 13.2' *)
+
+(*CacheID: 234*)
+(* Internal cache information:
+NotebookFileLineBreakTest
+NotebookFileLineBreakTest
+NotebookDataPosition[       158,          7]
+NotebookDataLength[      2788,         92]
+NotebookOptionsPosition[      2352,         77]
+NotebookOutlinePosition[      2747,         93]
+CellTagsIndexPosition[      2704,         90]
+WindowFrame->Normal*)
+
+(* Beginning of Notebook Content *)
+Notebook[{
+Cell[TextData[{
+ StyleBox["Theorem",
+  FontWeight->"Bold"],
+ " 4D GEM EOS  photon-electron soliton spin-stress pressure tensor gauge \
+group:"
+}], "Text",
+ CellChangeTimes->{{3.897341586553192*^9, 3.897341732246065*^9}, {
+  3.897342521116035*^9, 3.897342530117889*^9}},
+ FontSize->16,ExpressionUUID->"cc096e93-ba1c-47ef-afc3-dcd914f3c303"],
+
+Cell[TextData[{
+ StyleBox["\[ForAll]\|01d706",
+  FontWeight->"Bold"],
+ " ",
+ StyleBox["Eq.",
+  FontSlant->"Italic"],
+ " (6) == ",
+ Cell[BoxData[
+  FormBox[
+   FractionBox["\|01d629\|01d450", "\|01d706"], TraditionalForm]],
+  FormatType->TraditionalForm,ExpressionUUID->
+  "ec52f634-9fce-4b63-9d99-77c7e02b49aa"],
+ " \[DoubleRightArrow] ",
+ StyleBox["Eq.",
+  FontSlant->"Italic"],
+ " (9) == \[HBar]  ",
+ StyleBox["\:222a",
+  FontSize->36,
+  FontWeight->"Bold"],
+ "  ",
+ StyleBox["\[ForAll]",
+  FontWeight->"Bold"],
+ StyleBox["n Eq. (13) == ",
+  FontSlant->"Italic"],
+ Cell[BoxData[
+  FormBox[
+   SubscriptBox["m", "e"], TraditionalForm]],
+  FormatType->TraditionalForm,ExpressionUUID->
+  "28a1a6c8-7390-49da-9e95-60cabe82ab82"],
+ " \[DoubleRightArrow] ",
+ StyleBox["Eq. (15)",
+  FontSlant->"Italic"],
+ " == ",
+ Cell[BoxData[
+  FormBox[
+   FractionBox["\[HBar]", "2"], TraditionalForm]],
+  FormatType->TraditionalForm,ExpressionUUID->
+  "a817730f-7699-4677-a847-317e48f96a87"]
+}], "Text",
+ CellChangeTimes->{{3.8973417679009943`*^9, 3.897341836437352*^9}, {
+   3.8973418781258297`*^9, 3.897341984127264*^9}, {3.897342055951089*^9, 
+   3.897342122260503*^9}, {3.897342220907428*^9, 3.897342300703788*^9}, {
+   3.897342346651829*^9, 3.8973424346716013`*^9}, {3.897342550765456*^9, 
+   3.897342571869072*^9}, {3.8973426581050177`*^9, 3.897342672172634*^9}, 
+   3.897342730743202*^9},
+ FontSize->24,ExpressionUUID->"ad7a5e55-c942-4eaf-9171-b8a7665775c5"]
+},
+WindowSize->{808, 911},
+WindowMargins->{{4, Automatic}, {Automatic, 4}},
+FrontEndVersion->"13.2 for Mac OS X ARM (64-bit) (November 18, 2022)",
+StyleDefinitions->"Default.nb",
+ExpressionUUID->"279d7d0b-cd50-4348-8b0d-8f5fdb88b142"
+]
+(* End of Notebook Content *)
+
+(* Internal cache information *)
+(*CellTagsOutline
+CellTagsIndex->{}
+*)
+(*CellTagsIndex
+CellTagsIndex->{}
+*)
+(*NotebookFileOutline
+Notebook[{
+Cell[558, 20, 339, 8, 36, "Text",ExpressionUUID->"cc096e93-ba1c-47ef-afc3-dcd914f3c303"],
+Cell[900, 30, 1448, 45, 65, "Text",ExpressionUUID->"ad7a5e55-c942-4eaf-9171-b8a7665775c5"]
+}
+]
+*)
+
