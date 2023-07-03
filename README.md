@@ -76,7 +76,7 @@ The 4D GEM EOS radical new idea has progressed through several stages starting h
 
 [AI Peer Review Challenge: Standard Model of Physics vs 4D GEM EOS](https://www.researchgate.net/publication/317566286_AI_Peer_Review_Challenge_Standard_Model_of_Physics_vs_4D_GEM_EOS)
 
-![4DGEMEOSTheorem1.png](4DGEMEOSTheorem1.png)
+![4DGEMEOSTheorem1.png](4DGEMEOSTheorem.png)
 
 ![4DPhotonEnergy.png](4DPhotonEnergy.png)
 
@@ -85,8 +85,6 @@ The 4D GEM EOS radical new idea has progressed through several stages starting h
 ![4DElectronMass.png](4DElectronMass.png)
 
 ![4DElectron_h-2.png](4DElectron_h-2.png)
-
-![4DGEMEOSProofOutput.png](4DGEMEOSProofOutput.png)
 
 Maplesoft coded equations posted in the Maplesoft Application Center in 2019:
 
@@ -107,6 +105,8 @@ Unexpected solution, prediction, point in new direction
 [A New Experiment Casts Doubt on the Leading Theory of the Nucleus](https://www.quantamagazine.org/a-new-experiment-casts-doubt-on-the-leading-theory-of-the-nucleus-20230612/)
 
 ![4DGEMEOSProof.png](4DGEMEOSProof.png)
+
+![4DGEMEOSProofOutput.png](4DGEMEOSProofOutput.png)
 
 **Fig. 4.** Mathematica® theorem proving operator 4D GEM EOS Theorem 1 Proof Standard Input Form
 
