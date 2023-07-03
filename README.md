@@ -86,6 +86,8 @@ The 4D GEM EOS radical new idea has progressed through several stages starting h
 
 ![4DElectron_h-2.png](4DElectron_h-2.png)
 
+![4DGEMEOSProofOutput.png](4DGEMEOSProofOutput.png)
+
 Maplesoft coded equations posted in the Maplesoft Application Center in 2019:
 
 [4D Spatially-Extended Photon and Electron Quantum Mechanical Observables For All Wavelengths and Energy Levels](https://www.maplesoft.com/applications/Detail.aspx?id=154590)
