@@ -76,6 +76,16 @@ The 4D GEM EOS radical new idea has progressed through several stages starting h
 
 [AI Peer Review Challenge: Standard Model of Physics vs 4D GEM EOS](https://www.researchgate.net/publication/317566286_AI_Peer_Review_Challenge_Standard_Model_of_Physics_vs_4D_GEM_EOS)
 
+![4DGEMEOSTheorem1.png](4DGEMEOSTheorem1.png)
+
+![4DPhotonEnergy.png](4DPhotonEnergy.png)
+
+![4DPhoton_h.png](4DPhoton_h.png)
+
+![4DElectronMass.png](4DElectronMass.png)
+
+![4DElectron_h-2.png](4DElectron_h-2.png)
+
 Maplesoft coded equations posted in the Maplesoft Application Center in 2019:
 
 [4D Spatially-Extended Photon and Electron Quantum Mechanical Observables For All Wavelengths and Energy Levels](https://www.maplesoft.com/applications/Detail.aspx?id=154590)
