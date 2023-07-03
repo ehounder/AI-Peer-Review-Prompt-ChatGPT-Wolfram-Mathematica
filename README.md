@@ -66,11 +66,23 @@ MUH: _SUSY_-AdS/CFT theorists can of course upgrade the prompt with any new form
 
 Thus the concludes the background in the AI Report for the ChatGPT-Wolfram prompt, in the category of Other, for a 4D human-ai worldview comparison between MUH: _SUSY_-AdS/CFT vs 4D GEM EOS photon-electron soliton gauge group.
 
+
+
 ### 2. AI Peer Review ChatGPT-Wolfram Prompt for MUH: 4D GEM EOS Human-AI Worldview
 
-The 4D GEM EOS radical new idea has progressed through several stages starting here with the 2017 proposal:
+The 4D GEM EOS radical new idea initiated with the 2017 proposal:
 
 [AI Peer Review Challenge: Standard Model of Physics vs 4D GEM EOS](https://www.researchgate.net/publication/317566286_AI_Peer_Review_Challenge_Standard_Model_of_Physics_vs_4D_GEM_EOS)
+
+In 2019 the author first posted the 4D GEM EOS equations in the Maplesoft Application Center:
+
+[4D Spatially-Extended Photon and Electron Quantum Mechanical Observables For All Wavelengths and Energy Levels](https://www.maplesoft.com/applications/Detail.aspx?id=154590)
+
+In 2020 Mathematica® incorporated theorem proving operators into its platform, whereupon the author posted in the Wolfram Notebook Archive:
+
+[AI Pattern-Matching CERN LHC Collision Particle Resonance Flow Patterns with Electromagnetic Energy Density Pressure Turbulence](https://notebookarchive.org/ai-pattern-matching-cern-lhc-collision-particle-resonance-flow-patterns-with-electromagnetic-energy-density-pressure-turbulence--2020-03-dujz6sz/)
+
+As described in the previous background section, shown below is first the human-readable form of the [Mathematica® theorem proving operator code which computationally reproduces the QED 0D→4D GEM EOS spatially-extended photon-electron soliton guage group quantum mechanical observables to all 31 & 34 decimal places `ForAll` wavelengths and energy levels](https://notebookarchive.org/ai-pattern-matching-cern-lhc-collision-particle-resonance-flow-patterns-with-electromagnetic-energy-density-pressure-turbulence--2020-03-dujz6sz/) followed by the Mathematica® Raw Input Form for the ChatGPT-Wolfram prompt:
 
 ![4DGEMEOSTheorem1.png](4DGEMEOSTheorem.png)
 
@@ -81,14 +93,6 @@ The 4D GEM EOS radical new idea has progressed through several stages starting h
 ![4DElectronMass.png](4DElectronMass.png)
 
 ![4DElectron_h-2.png](4DElectron_h-2.png)
-
-Maplesoft coded equations posted in the Maplesoft Application Center in 2019:
-
-[4D Spatially-Extended Photon and Electron Quantum Mechanical Observables For All Wavelengths and Energy Levels](https://www.maplesoft.com/applications/Detail.aspx?id=154590)
-
-Mathematica® theorem proving operator code posted in the Wolfram Notebook Archive in 2020:
-
-[AI Pattern-Matching CERN LHC Collision Particle Resonance Flow Patterns with Electromagnetic Energy Density Pressure Turbulence](https://notebookarchive.org/ai-pattern-matching-cern-lhc-collision-particle-resonance-flow-patterns-with-electromagnetic-energy-density-pressure-turbulence--2020-03-dujz6sz/)
 
 Condensed Mathematica® theorem proving operator code posted on ResearchGate 2020:
 
