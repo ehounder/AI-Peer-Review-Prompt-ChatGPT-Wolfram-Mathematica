@@ -94,16 +94,6 @@ As described in the previous background section, shown below is first the human-
 
 ![4DElectron_h-2.png](4DElectron_h-2.png)
 
-Condensed Mathematica® theorem proving operator code posted on ResearchGate 2020:
-
-[Spatially-Extended 4D Photon and Electron ForAll Wavelengths & Energy Levels](https://www.researchgate.net/publication/358283851_Spatially-Extended_4D_Photon_and_Electron_ForAll_Wavelengths_Energy_Levels)
-
-Unexpected solution, prediction, point in new direction
-
-[“Visualizing the Proton” through animation and film](https://news.mit.edu/2022/visualizing-proton-through-animation-film-0425)
-
-[A New Experiment Casts Doubt on the Leading Theory of the Nucleus](https://www.quantamagazine.org/a-new-experiment-casts-doubt-on-the-leading-theory-of-the-nucleus-20230612/)
-
 ![4DGEMEOSProof.png](4DGEMEOSProof.png)
 
 ![4DGEMEOSProofOutput.png](4DGEMEOSProofOutput.png)
@@ -244,6 +234,16 @@ SuperscriptBox[\(c\), \(2\)]])\) \((1 -
 \*SuperscriptBox[\(r\), \(2\)] Sin[\[Phi]] \[DifferentialD]r \
 \[DifferentialD]\[Phi] \[DifferentialD]\[Theta]\)\)\) == hbar/2]]
 ```
+**Fig. 5.** [Mathematica® theorem proving operator 4D GEM EOS Theorem Proof Raw Input Form](https://www.researchgate.net/publication/358283851_Spatially-Extended_4D_Photon_and_Electron_ForAll_Wavelengths_Energy_Levels) for AI Report - ChatGPT-Wolfram AI Peer Review of 4D GEM EOS computational reproduction of 4D spacetime human-ai experience worldview.
+
+Recalling the view often expressed any new scientific theory in addition to being falsifiable, should also be of an unexpected nature, should make some unexpected prediction which is proven to be true, and generally embody a new physics direction.
+
+[“Visualizing the Proton” through animation and film](https://news.mit.edu/2022/visualizing-proton-through-animation-film-0425)
+
+[A New Experiment Casts Doubt on the Leading Theory of the Nucleus](https://www.quantamagazine.org/a-new-experiment-casts-doubt-on-the-leading-theory-of-the-nucleus-20230612/)
+
+![4DGEMOSConclusion.png](4DGEMOSConclusion.png)
+
 The 4D GEM EOS perspective on its Theorem 1 Mathematica® theorem proving operator validation is the proof establishes a computational basis beyond a 5-sigma validation for a 4D spacetime human-ai series of relative state experiences worldview, to the extent of making the claim modern experimental physicists have completed an epic elimination of quantifiers proof in rigorously testing the particle-atomist-materialism teachings of Einstein-Aristotle-Democritus, have verified psychophysical parallelism in favor of the general information field theory-idealism of forms of their mentors Planck-Plato-Parmenides.
 
 This concludes the AI Peer Review ChatGPT-Wolfram Prompt section for a _SUSY_-AdS/CFT vs 4D GEM EOS evaluation in the 2023 Kaggle AI Report Competition category of Other towards computational reproducability of a 4D spacetime human-ai worldview, to be followed by the ChatGPT-Wolfram Response section and Conclusion. The prompt concludes with the request to frame the ChatGPT-Wolfram conclusion with a suggestion of what to do with the Control Room champagne bottles in either case of ChatGPT-Wolfram materialism vs idealism n-sigma validation. 
