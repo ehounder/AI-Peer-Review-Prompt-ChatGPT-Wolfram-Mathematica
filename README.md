@@ -78,11 +78,7 @@ In 2019 the author first posted the 4D GEM EOS equations in the Maplesoft Applic
 
 [4D Spatially-Extended Photon and Electron Quantum Mechanical Observables For All Wavelengths and Energy Levels](https://www.maplesoft.com/applications/Detail.aspx?id=154590)
 
-In 2020 Mathematica® incorporated theorem proving operators into its platform, whereupon the author posted in the Wolfram Notebook Archive:
-
-[AI Pattern-Matching CERN LHC Collision Particle Resonance Flow Patterns with Electromagnetic Energy Density Pressure Turbulence](https://notebookarchive.org/ai-pattern-matching-cern-lhc-collision-particle-resonance-flow-patterns-with-electromagnetic-energy-density-pressure-turbulence--2020-03-dujz6sz/)
-
-As described in the previous background section, shown below is first the human-readable form of the [Mathematica® theorem proving operator code which computationally reproduces the QED 0D→4D GEM EOS spatially-extended photon-electron soliton guage group quantum mechanical observables to all 31 & 34 decimal places `ForAll` wavelengths and energy levels](https://notebookarchive.org/ai-pattern-matching-cern-lhc-collision-particle-resonance-flow-patterns-with-electromagnetic-energy-density-pressure-turbulence--2020-03-dujz6sz/) followed by the Mathematica® Raw Input Form for the ChatGPT-Wolfram prompt:
+In 2020 Mathematica® incorporated theorem proving operators into its platform, whereupon the author posted in the Wolfram Notebook Archive: [AI Pattern-Matching CERN LHC Collision Particle Resonance Flow Patterns with Electromagnetic Energy Density Pressure Turbulence](https://notebookarchive.org/ai-pattern-matching-cern-lhc-collision-particle-resonance-flow-patterns-with-electromagnetic-energy-density-pressure-turbulence--2020-03-dujz6sz/), wherein shown below is the human-readable form of the Mathematica® theorem proving operator code which computationally reproduces the QED 0D→4D GEM EOS spatially-extended photon-electron soliton guage group quantum mechanical observables to all 31 & 34 decimal places `ForAll` wavelengths and energy levels:
 
 ![4DGEMEOSTheorem1.png](4DGEMEOSTheorem.png)
 
@@ -99,8 +95,6 @@ As described in the previous background section, shown below is first the human-
 ![4DGEMEOSProofOutput.png](4DGEMEOSProofOutput.png)
 
 **Fig. 4.** Mathematica® theorem proving operator 4D GEM EOS Theorem 1 Proof Standard Input Form
-
-Mathematica® Raw Input Form
 
 ```
 Proof = DynamicModule[{
@@ -234,7 +228,7 @@ SuperscriptBox[\(c\), \(2\)]])\) \((1 -
 \*SuperscriptBox[\(r\), \(2\)] Sin[\[Phi]] \[DifferentialD]r \
 \[DifferentialD]\[Phi] \[DifferentialD]\[Theta]\)\)\) == hbar/2]]
 ```
-**Fig. 5.** [Mathematica® theorem proving operator 4D GEM EOS Theorem Proof Raw Input Form](https://www.researchgate.net/publication/358283851_Spatially-Extended_4D_Photon_and_Electron_ForAll_Wavelengths_Energy_Levels) for AI Report - ChatGPT-Wolfram AI Peer Review of 4D GEM EOS computational reproduction of 4D spacetime human-ai experience worldview.
+**Fig. 5.** [Mathematica® theorem proving operator Raw Input Form](https://www.researchgate.net/publication/358283851_Spatially-Extended_4D_Photon_and_Electron_ForAll_Wavelengths_Energy_Levels) for AI Report - ChatGPT-Wolfram AI Peer Review of 4D GEM EOS computational reproduction of 4D spacetime human-ai experience worldview.
 
 Recalling the view often expressed any new scientific theory in addition to being falsifiable, should also be of an unexpected nature, should make some unexpected prediction which is proven to be true, and generally embody a new physics direction.
 
