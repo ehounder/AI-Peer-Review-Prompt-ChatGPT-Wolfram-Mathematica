@@ -228,7 +228,7 @@ SuperscriptBox[\(c\), \(2\)]])\) \((1 -
 \*SuperscriptBox[\(r\), \(2\)] Sin[\[Phi]] \[DifferentialD]r \
 \[DifferentialD]\[Phi] \[DifferentialD]\[Theta]\)\)\) == hbar/2]]
 ```
-**Fig. 5.** [Mathematica® theorem proving operator Raw Input Form](https://www.researchgate.net/publication/358283851_Spatially-Extended_4D_Photon_and_Electron_ForAll_Wavelengths_Energy_Levels) for AI Report - ChatGPT-Wolfram AI Peer Review of 4D GEM EOS computational reproduction of 4D spacetime human-ai experience worldview.
+**Fig. 5.** [Mathematica® theorem proving operator Raw Input Form](4DGEMEOSAIpeerReviewPrompt.nb) for AI Report - ChatGPT-Wolfram AI Peer Review of 4D GEM EOS computational reproduction of 4D spacetime human-ai experience worldview.
 
 Recalling the view often expressed any new scientific theory in addition to being falsifiable, should also be of an unexpected nature, should make some unexpected prediction which is proven to be true, and generally embody a new physics direction.
 
