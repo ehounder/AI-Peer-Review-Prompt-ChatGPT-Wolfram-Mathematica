@@ -386,7 +386,7 @@ SuperscriptBox[\(c\), \(2\)]])\) \((1 -
 ```
 [![Chat-GPT-Response-2.png](https://i.postimg.cc/QMNtq4ys/Chat-GPT-Response-2.png)](https://postimg.cc/tsfpq5bm)
 
-(The significance of establishing a new AI Report Topic of a computationally reproducible 4D spacetime human-ai worldview is seen here as a worthwile basis to develop AGI on mathematical physics experimental reality vs the perils of science fiction. Hence it is logical that if AGI is to be achieved any such AI analytic LLM should be capable of conducting a peer review of any new scientific logic as a logical sequitur to the prior art.)
+(The significance of establishing a new AI Report Topic of a computationally reproducible 4D spacetime human-ai worldview is seen here as a worthwhile basis to develop AGI on the proverbial objective mathematical physics experimental reality vs the perils of science fiction. Hence it is logical that if AGI is to be achieved any such AI analytic LLM should first be capable of conducting a peer review of any new scientific logic as a logical sequitur to the prior art.)
 
 ### 4.  Conclusion
 
