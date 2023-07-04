@@ -82,7 +82,7 @@ In 2020 Mathematica® incorporated theorem proving operators into its platform, 
 
 [![4-DGEMEOSTheorem.png](https://i.postimg.cc/wTJ5xbcq/4-DGEMEOSTheorem.png)](https://postimg.cc/QH8K0myw)
 
-![4DPhotonEnergy.png](https://github.com/ehounder/AI-Report-AI-Peer-Review/blob/main/4DPhotonEnergy.png)
+[![4-DPhoton-Energy.png](https://i.postimg.cc/PqfFwk2z/4-DPhoton-Energy.png)](https://postimg.cc/WdK7BxRh)
 
 ![4DPhoton_h.png](https://github.com/ehounder/AI-Report-AI-Peer-Review/blob/main/4DPhoton_h.png)
 
