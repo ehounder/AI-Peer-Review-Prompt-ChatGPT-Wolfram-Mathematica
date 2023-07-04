@@ -8,15 +8,15 @@ AI peer review prompt is generated for an ai-worldview in the [2023 Kaggle AI Re
 
 [Greek Natural Philosophy 300 BC to 2023 AD, Resolved: Particles are Fields](https://github.com/ehounder/AI-Report-AI-Peer-Review/blob/main/VisionPaperHarnessDavid.pdf)
 
-![The School of Athens](TheSchoolofAthens.png)
+![The School of Athens](https://github.com/ehounder/AI-Report-AI-Peer-Review/blob/main/TheSchoolofAthens.png)
 
 **Fig. 1.** The present ai-peer review prompt for an MUH: _SUSY_ vs 4D GEM EOS human-ai fundamental physics worldview originates with _The School of Athens_ debate shown, wherein the Greek natural philosophy of Aristotle-Democritus atomist-materialism gets all the press while the Plato-Parmenides theory of forms-idealism has evolved into quantum information field theory. The current relative state of which being [A Deepening Crisis Forces Physicists to Rethink Structure of Nature’s Laws](https://www.quantamagazine.org/crisis-in-particle-physics-forces-a-rethink-of-what-is-natural-20220301/).
 
-![LHC Control Room](LHCControlRoom.png)
+![LHC Control Room](https://github.com/ehounder/AI-Report-AI-Peer-Review/blob/main/LHCControlRoom.png)
 
 **Fig. 2.** The CERN Linear Hadron Collider (LHC) was built to discover [_SUSY_](https://en.wikipedia.org/wiki/Supersymmetry) superpartner particles. Control Room champagne bottles might need a backup plan. Consider the Deepening Crisis fundamental problem with _SUSY_ naturalness stems from the unnaturalness of _SUSY_ being an unacknowledged attempt to solve the [many-body problem](https://en.wikipedia.org/wiki/Many-body_problem#:~:text=The%20many%2Dbody%20problem%20is,accurate%20description%20of%20the%20system.) on the universal(multiverse!) scale via its reductionism to conjectured zero-sized imaginary-invisible mathematical point particle collisions - returning null results to the detection of any sort of _SUSY_ superpartner particle-_sparticle_ increasingly complex recursive backgrounds of [hidden dimensional physics of unknown string-membrane-loop material anti-de Sitter/conformal field theory (AdS/CFT) mechanisms](https://en.wikipedia.org/wiki/AdS/CFT_correspondence) - while the 3-body problem is proven to be computationally intractable. Computationally intractable means a 4D spacetime human-ai worldview, such as described by [Quantum simulation of fundamental particles and forces](https://www.nature.com/articles/s42254-023-00599-8) of Bauer, Davoudi, Klco, Savage, cannot be expected to gain naturalness from any such _SUSY_ AdS/CFT hidden dimensional physics.
 
-![APS Prof. Maria Spiropulu](MariaAPS2014.png)
+![APS Prof. Maria Spiropulu](https://github.com/ehounder/AI-Report-AI-Peer-Review/blob/main/MariaAPS2014.png)
 
 **Fig. 3.** CERN Caltech Experimental Physicist Maria Spiropulu presents on [The Future of the Higgs Boson at APS April Meeting 2014](https://www.youtube.com/watch?v=fB6xIH24P7Q) describing the Higgs Naturalness Problem for which "radical new ideas are needed", see @20:32. Prof. Spiropulu is now committee co-chair of the National Academies of Sciences, Engineering, and Medicine study called, [Elementary Particle Physics: Progress and Promise (EPP-2024)](https://www.nationalacademies.org/our-work/elementary-particle-physics-progress-and-promise) indicating to the general interdisciplinary science and engineering community radical new ideas are still needed, stating in the [EPP-2024 Call for Vision Papers](https://www.nationalacademies.org/news/2022/09/exploring-the-progress-and-promise-of-particle-physics): 
 
