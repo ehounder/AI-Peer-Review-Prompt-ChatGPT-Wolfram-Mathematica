@@ -96,6 +96,8 @@ In 2020 Mathematica® incorporated theorem proving operators into its platform, 
 
 **Fig. 4.** Human-readable Standard Input Form of Mathematica® theorem proving operator Theorem 4D GEM EOS photon-electron soliton gauge group; wherein Eq.(6) field integration computationally reproduces the Einstein-Planck photon energy observable, Eq.(9) reproduces the Einstein-Planck photon angular momentum observable, in union with Eq.(13) field integration computationally reproduces the electron rest mass observable, and Eq.(15) reproduces the electron angular momentum observable.
 
+The following is the [Raw Input Form Mathematica® theorem proving operator code](https://github.com/ehounder/AI-Report-AI-Peer-Review/blob/main/4DGEMEOSAIpeerReviewPrompt.nb) for the AI Report - ChatGPT-Wolfram prompt for an AI Peer Review of 4D GEM EOS computational reproduction of a 4D spacetime human-ai experience worldview:
+
 ```
 Proof = DynamicModule[{
    h = QuantityMagnitude[Quantity[1, "PlanckConstant"], 
@@ -228,9 +230,7 @@ SuperscriptBox[\(c\), \(2\)]])\) \((1 -
 \*SuperscriptBox[\(r\), \(2\)] Sin[\[Phi]] \[DifferentialD]r \
 \[DifferentialD]\[Phi] \[DifferentialD]\[Theta]\)\)\) == hbar/2]]
 ```
-**Fig. 5.** [Mathematica® theorem proving operator Raw Input Form](https://github.com/ehounder/AI-Report-AI-Peer-Review/blob/main/4DGEMEOSAIpeerReviewPrompt.nb) for AI Report - ChatGPT-Wolfram AI Peer Review of 4D GEM EOS computational reproduction of 4D spacetime human-ai experience worldview.
-
-Recalling the view often expressed any new scientific theory in addition to being falsifiable, should also be of an unexpected nature, should make some unexpected prediction which is proven to be true, and generally embody a new physics direction.
+Recalling the popular view that any new scientific theory, in addition to being falsifiable, should also be of an unexpected nature, should make some unexpected prediction which is proven to be true, and generally embody a new physics direction. The improbable means for falsifying 4D GEM EOS has already been indicated above and of course a successful validation of the 4D GEM EOS radical new idea by AI Peer Review is certainly unexpected in the literature. 
 
 [“Visualizing the Proton” through animation and film](https://news.mit.edu/2022/visualizing-proton-through-animation-film-0425)
 
