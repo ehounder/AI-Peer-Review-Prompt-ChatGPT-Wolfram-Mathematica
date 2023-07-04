@@ -232,9 +232,7 @@ SuperscriptBox[\(c\), \(2\)]])\) \((1 -
 ```
 Recalling the popular view that any new scientific theory, in addition to being falsifiable, should also be of an unexpected nature, should make some unexpected prediction which is proven to be true, and generally embody a new physics direction. The improbable means for falsifying 4D GEM EOS has already been indicated above and of course a successful validation of the 4D GEM EOS radical new idea by AI Peer Review is certainly unexpected in the literature. 
 
-[“Visualizing the Proton” through animation and film](https://news.mit.edu/2022/visualizing-proton-through-animation-film-0425)
-
-[A New Experiment Casts Doubt on the Leading Theory of the Nucleus](https://www.quantamagazine.org/a-new-experiment-casts-doubt-on-the-leading-theory-of-the-nucleus-20230612/)
+Interestingly enough then, recently MIT created a simulation of the proton nucleus [“Visualizing the Proton” through animation and film](https://news.mit.edu/2022/visualizing-proton-through-animation-film-0425) and Bacca performed [A New Experiment Casts Doubt on the Leading Theory of the Nucleus](https://www.quantamagazine.org/a-new-experiment-casts-doubt-on-the-leading-theory-of-the-nucleus-20230612/) both of which are carried out by means of the photon-electron gauge group. Wherein the new physics direction is indicated in the conclusion 4D GEM EOS establishes the total field formal frame for the full Laplacian quantum mechanical spherical harmonics including the nucleus along the trace of **T**:
 
 ![4DGEMOSConclusion.png](https://github.com/ehounder/AI-Report-AI-Peer-Review/blob/main/4DGEMOSConclusion.png)
 
