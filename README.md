@@ -244,4 +244,146 @@ Following sections are to be ChatGPT-Wolfram Response and Conclusion using this 
 
 ### 3.  AI Peer Review ChatGPT-Wolfram Response for MUH: _SUSY_-AdS/CFT vs 4D GEM EOS
 
+(Well of course the above prompt first submitted on 4 July 2023 was too long, along with the other limitations, wherein resubmitting shorted code returned the following chat:)
+
+[![Chat-GPT-Response-1.png](https://i.postimg.cc/DZm9vL81/Chat-GPT-Response-1.png)](https://postimg.cc/ZBt7j9Pq)
+
+Alright I'll repeat the prompt then for you to evaluate the Mathematica code starting with the fact the first principle for computationally reproducing a 4D spacetime human-ai experience worldview is the entire range of low-energy to high-energy physics experiments, including the CERN LHC proton beam collisions are entirely energized by the 4D spacetime Einstein-Maxwell electromagnetic stress-energy momentum density pressure tensor **T** and its ATLAS CMS detectors measure only 4D electromagnetic energy density tensor pressure quantum field information to which the literature refers.
+
+Consequently, evaluate  whether the following  Mathematica® theorem proving operator  Raw Input Form code computationally reproduces the QED 0D→4D GEM EOS spatially-extended photon-electron soliton gauge group quantum mechanical Einstein-Planck photon energy, Einstein-Planck photon angular momentum, electron rest mass, and electron angular momentum observables to all 31 & 34 decimal places `ForAll` wavelengths and energy levels along the perfect fluid metric pressure trace of the Einstein-Maxwell electromagnetic stress-energy momentum density pressure tensor **T** and therefore establishes a total field formal frame basis to computationally reproduce a 4D spacetime human-ai experience worldview:
+
+```
+Proof = DynamicModule[{
+   h = QuantityMagnitude[Quantity[1, "PlanckConstant"], 
+     "Joules" "Seconds"],
+   hbar = 
+    QuantityMagnitude[Quantity[1, "PlanckConstant"]/(2 \[Pi]), 
+     "Joules" "Seconds"],
+   c = QuantityMagnitude[Quantity[1, "SpeedOfLight"], 
+     "Meters" ("Seconds")^-1],
+   eEnergy = 
+    QuantityMagnitude[Quantity[1, "ElectronMass" ("SpeedOfLight")^2], 
+     "Joules"],
+   me = QuantityMagnitude[Quantity[1, "ElectronMass"], "Kilograms"],
+   bohr = QuantityMagnitude[Quantity[1, "BohrRadius"], "Meters"]
+   }, ForAll[{\[Lambda], n}, 
+   UniformDistribution[{{1.*^-12, 1.*^4}, {1, 10000}}], \!\(
+\*SubsuperscriptBox[\(\[Integral]\), \(0\), \(\[Lambda]\)]\(
+\*SubsuperscriptBox[\(\[Integral]\), \(-
+\*FractionBox[\(\[Pi]\), \(4\)]\), 
+FractionBox[\(\[Pi]\), \(4\)]]\(
+\*SubsuperscriptBox[\(\[Integral]\), \(0\), \(
+\*FractionBox[\(1\), \(4\)]\ \[Lambda]\ 
+\*SqrtBox[\(Cos[2\ \[Theta]]\)]\)]2 \((
+\*FractionBox[
+FractionBox[\(2*h*c\), \(\[Lambda]\)], 
+FractionBox[
+SuperscriptBox[\(\[Lambda]\), \(3\)], \(8  \[Pi]\)]])\)\ Abs[Sin[\((
+\*FractionBox[\(2\ \[Pi]\), \(\[Lambda]\)])\)\ y]]\ \((1 - 
+\*SuperscriptBox[\((
+\*FractionBox[\(r\), \(
+\*FractionBox[\(1\), \(4\)]\ \[Lambda]\ 
+\*SqrtBox[\(Cos[
+                  2\ \[Theta]]\)]\)])\), \(2\)])\) r \
+\[DifferentialD]r \[DifferentialD]\[Theta] \[DifferentialD]y\)\)\) == \
+(h*c)/\[Lambda] \[DoubleRightArrow] \!\(
+\*SubsuperscriptBox[\(\[Integral]\), \(0\), \(\[Lambda]\)]\(
+\*SubsuperscriptBox[\(\[Integral]\), \(-
+\*FractionBox[\(\[Pi]\), \(4\)]\), 
+FractionBox[\(\[Pi]\), \(4\)]]\(
+\*SubsuperscriptBox[\(\[Integral]\), \(0\), \(
+\*FractionBox[\(1\), \(4\)]\ \[Lambda]\ 
+\*SqrtBox[\(Cos[2\ \[Theta]]\)]\)]2 \((\((
+\*FractionBox[
+FractionBox[\(2*h*c\), \(\[Lambda]\)], 
+FractionBox[
+SuperscriptBox[\(\[Lambda]\), \(3\)], \(8  \[Pi]\)]])\)\ /
+\*SuperscriptBox[\(c\), \(2\)])\) Abs[Sin[\((
+\*FractionBox[\(2\ \[Pi]\), \(\[Lambda]\)])\)\ y]]\ \((1 - 
+\*SuperscriptBox[\((
+\*FractionBox[\(r\), \(
+\*FractionBox[\(1\), \(4\)]\ \[Lambda]\ 
+\*SqrtBox[\(Cos[2\ \[Theta]]\)]\)])\), \(2\)])\) \((
+\*FractionBox[\(2  \[Pi]\ c\), \(\[Lambda]\)]/\((
+\*FractionBox[\(1\), \(hbar\)] \((
+\*SubsuperscriptBox[\(\[Integral]\), \(0\), \(\[Lambda]\)]\(
+\*SubsuperscriptBox[\(\[Integral]\), \(-
+\*FractionBox[\(\[Pi]\), \(4\)]\), 
+FractionBox[\(\[Pi]\), \(4\)]]\(
+\*SubsuperscriptBox[\(\[Integral]\), \(0\), \(
+\*FractionBox[\(1\), \(4\)]\ \[Lambda]\ 
+\*SqrtBox[\(Cos[2\ \[Theta]]\)]\)]2 \((\((
+\*FractionBox[
+FractionBox[\(2*h*c\), \(\[Lambda]\)], 
+FractionBox[
+SuperscriptBox[\(\[Lambda]\), \(3\)], \(8  \[Pi]\)]])\)\ /
+\*SuperscriptBox[\(c\), \(2\)])\) Abs[Sin[\((
+\*FractionBox[\(2\ \[Pi]\), \(\[Lambda]\)])\)\ y]]\ \((1 - 
+\*SuperscriptBox[\((
+\*FractionBox[\(r\), \(
+\*FractionBox[\(1\), \(4\)]\ \[Lambda]\ 
+\*SqrtBox[\(Cos[2\ \[Theta]]\)]\)])\), \(2\)])\) \((
+\*FractionBox[\(\(2\)  \(\[Pi]\)\(\ \)\(c\)\(\ \)\), \
+\(\[Lambda]\)])\) r \[DifferentialD]r \[DifferentialD]\[Theta] \
+\[DifferentialD]y\)\))\))\))\) r \[DifferentialD]r \[DifferentialD]\
+\[Theta] \[DifferentialD]y\)\)\) == hbar && \!\(
+\*SubsuperscriptBox[\(\[Integral]\), \(0\), \(2  \[Pi]\)]\(
+\*SubsuperscriptBox[\(\[Integral]\), \(0\), \(\[Pi]\)]\(
+\*SubsuperscriptBox[\(\[Integral]\), \(0\), \(
+\*SqrtBox[\(2\)]*
+\*SuperscriptBox[\(n\), \(2\)]*bohr\)]\((
+\*FractionBox[
+FractionBox[\(4*eEnergy\), \(4  \[Pi]\ 
+\*SuperscriptBox[\((
+\*SqrtBox[\(2\)]*
+\*SuperscriptBox[\(n\), \(2\)]*bohr)\), \(3\)]/3\)], 
+SuperscriptBox[\(c\), \(2\)]])\) \((1 - 
+\*FractionBox[\(r\), \(
+\*SqrtBox[\(2\)]*
+\*SuperscriptBox[\(n\), \(2\)]*bohr\)])\) 
+\*SuperscriptBox[\(r\), \(2\)] Sin[\[Phi]] \[DifferentialD]r \
+\[DifferentialD]\[Phi] \[DifferentialD]\[Theta]\)\)\) == 
+      me \[DoubleRightArrow] \!\(
+\*SubsuperscriptBox[\(\[Integral]\), \(0\), \(2  \[Pi]\)]\(
+\*SubsuperscriptBox[\(\[Integral]\), \(0\), \(\[Pi]\)]\(
+\*SubsuperscriptBox[\(\[Integral]\), \(0\), \(
+\*SqrtBox[\(2\)]*
+\*SuperscriptBox[\(n\), \(2\)]*bohr\)]\((
+\*FractionBox[
+FractionBox[\(4*eEnergy\), \(4  \[Pi]\ 
+\*SuperscriptBox[\((
+\*SqrtBox[\(2\)]*
+\*SuperscriptBox[\(n\), \(2\)]*bohr)\), \(3\)]/3\)], 
+SuperscriptBox[\(c\), \(2\)]])\) \((1 - 
+\*FractionBox[\(r\), \(
+\*SqrtBox[\(2\)]*
+\*SuperscriptBox[\(n\), \(2\)]*bohr\)])\) \((
+\*FractionBox[\(c\), \(2  \[Pi]*
+\*SqrtBox[\(2\)]*
+\*SuperscriptBox[\(n\), \(2\)]*bohr\)]\ *\((
+\*FractionBox[\(hbar\), \(2\)]/\((
+\*SubsuperscriptBox[\(\[Integral]\), \(0\), \(2  \[Pi]\)]\(
+\*SubsuperscriptBox[\(\[Integral]\), \(0\), \(\[Pi]\)]\(
+\*SubsuperscriptBox[\(\[Integral]\), \(0\), \(
+\*SqrtBox[\(2\)]*
+\*SuperscriptBox[\(n\), \(2\)]*bohr\)]\((
+\*FractionBox[
+FractionBox[\(4*eEnergy\), \(4  \[Pi]\ 
+\*SuperscriptBox[\((
+\*SqrtBox[\(2\)]*
+\*SuperscriptBox[\(n\), \(2\)]*bohr)\), \(3\)]/3\)], 
+SuperscriptBox[\(c\), \(2\)]])\) \((1 - 
+\*FractionBox[\(r\), \(
+\*SqrtBox[\(2\)]*
+\*SuperscriptBox[\(n\), \(2\)]*bohr\)])\) \((
+\*FractionBox[\(c\), \(2  \[Pi]*
+\*SqrtBox[\(2\)]*
+\*SuperscriptBox[\(n\), \(2\)]*bohr\)])\)\ 
+\*SuperscriptBox[\(r\), \(2\)] Sin[\[Phi]] \[DifferentialD]r \
+\[DifferentialD]\[Phi] \[DifferentialD]\[Theta]\)\))\))\))\)\ 
+\*SuperscriptBox[\(r\), \(2\)] Sin[\[Phi]] \[DifferentialD]r \
+\[DifferentialD]\[Phi] \[DifferentialD]\[Theta]\)\)\) == hbar/2]]
+```
+[![Chat-GPT-Response-2.png](https://i.postimg.cc/QMNtq4ys/Chat-GPT-Response-2.png)](https://postimg.cc/tsfpq5bm)
+
 ### 4.  Conclusion
