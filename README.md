@@ -24,7 +24,7 @@ AI peer review prompt is generated for an ai-worldview in the [2023 Kaggle AI Re
 
 Perhaps the committee would settle for an anecdote wherein 1990 the author as an undergraduate intern at the Lawrence Berkeley Lab, Nuclear Science Division, at two separate luncheon occasions was fortunate enough to ask two LBL resident Nobel Laureates Owen Chamberlain and Glenn Seaborg the same question:
 
-> "How do particle physicists explain the physical mechanism by which virtual particles in their unobservable state create an attractive force, via force carrier particle exchange, between _hidden emitter→carrier←absorber particles_ - when every **observed emitter↔︎carrier↔︎absorber particle** interaction always results in a repulsion from any would-be line of attraction?"
+> "How do particle physicists explain the physical mechanism by which virtual particles in their unobservable state create an attractive force, via force carrier particle exchange, between _hidden dimensional emitter-->carrier<--absorber particles_ - when every **observed emitter<-->carrier<-->absorber particle** interaction always results in a repulsion from any would-be line of attraction?"
 
 Both Chamberlain and Seaborg gave the exact same answer:
 
