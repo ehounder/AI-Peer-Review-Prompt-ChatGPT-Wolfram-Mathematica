@@ -62,7 +62,7 @@ The list of unnaturalness questions for a ChatGPT-Wolfram prompt to answer in fa
 
 Particle physicists have answered the Pauli exclusion principle prevents the δ particles from occupying the same space. Notice however - zero-sized _SUSY_ δ particles _occupy no space_ - so ironically the Pauli exclusion principle itself is [Not Even Wrong](https://www.math.columbia.edu/~woit/wordpress/).
 
-MUH: _SUSY_-AdS/CFT theorists can of course upgrade the prompt with any new formalized conjectures or test for randomness in ChatGPT-Wolfram reponses.
+MUH: _SUSY_-AdS/CFT theorists can of course upgrade this prompt with any new formalized conjectures or test for randomness in ChatGPT-Wolfram reponses.
 
 Thus the concludes the background in the AI Report for the ChatGPT-Wolfram prompt, in the category of Other, for a 4D human-ai worldview comparison between MUH: _SUSY_-AdS/CFT vs 4D GEM EOS photon-electron soliton gauge group.
 
