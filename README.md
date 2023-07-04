@@ -94,7 +94,7 @@ In 2020 Mathematica® incorporated theorem proving operators into its platform, 
 
 ![4DGEMEOSProofOutput.png](https://github.com/ehounder/AI-Report-AI-Peer-Review/blob/main/4DGEMEOSProofOutput.png)
 
-**Fig. 4.** Mathematica® theorem proving operator 4D GEM EOS Theorem 1 Proof Standard Input Form
+**Fig. 4.** Human-readable Standard Input Form of Mathematica® theorem proving operator Theorem 4D GEM EOS photon-electron soliton gauge group; wherein Eq.(5) field integration computationally reproduces the Einstein-Planck photon energy observable, Eq.(8) reproduces the Einstein-Planck photon angular momentum observable, in union with Eq.(12) field integration computationally reproduces the electron rest mass observable, and Eq.(15) reproduces the electron angular momentum observable.
 
 ```
 Proof = DynamicModule[{
