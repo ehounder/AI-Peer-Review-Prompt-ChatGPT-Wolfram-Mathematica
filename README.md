@@ -8,7 +8,7 @@ AI peer review prompt is generated for an ai-worldview in the [2023 Kaggle AI Re
 
 [Greek Natural Philosophy 300 BC to 2023 AD, Resolved: Particles are Fields](https://github.com/ehounder/AI-Report-AI-Peer-Review/blob/main/VisionPaperHarnessDavid.pdf)
 
-![The School of Athens](https://github.com/ehounder/AI-Report-AI-Peer-Review/blob/main/TheSchoolofAthens.png)
+![The School of Athens](https://i.postimg.cc/nc4M5K2w/The-Schoolof-Athens.png)
 
 **Fig. 1.** The present AI Report ChatGPT-Wolfram ai-peer review prompt for an MUH: _SUSY_ vs 4D GEM EOS human-ai elementary physics worldview originates with _The School of Athens_ debate shown, wherein the Greek natural philosophy of Aristotle-Democritus atomist-materialism gets all the press while the Plato-Parmenides theory of forms-idealism has evolved into quantum information field theory as [A Deepening Crisis Forces Physicists to Rethink Structure of Nature’s Laws](https://www.quantamagazine.org/crisis-in-particle-physics-forces-a-rethink-of-what-is-natural-20220301/).
 
