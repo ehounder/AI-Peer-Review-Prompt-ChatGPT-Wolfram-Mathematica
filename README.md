@@ -78,7 +78,7 @@ In 2019 the author first posted the 4D GEM EOS equations in the Maplesoft Applic
 
 [4D Spatially-Extended Photon and Electron Quantum Mechanical Observables For All Wavelengths and Energy Levels](https://www.maplesoft.com/applications/Detail.aspx?id=154590)
 
-In 2020 Mathematica® incorporated theorem proving operators into its platform, whereupon the author posted in the [Wolfram Notebook Archive: AI Pattern-Matching CERN LHC Collision Particle Resonance Flow Patterns with Electromagnetic Energy Density Pressure Turbulence](https://notebookarchive.org/ai-pattern-matching-cern-lhc-collision-particle-resonance-flow-patterns-with-electromagnetic-energy-density-pressure-turbulence--2020-03-dujz6sz/), wherein shown below is the human-readable form of the Mathematica® theorem proving operator code which computationally reproduces the QED 0D→4D GEM EOS spatially-extended photon-electron soliton guage group quantum mechanical observables to all 31 & 34 decimal places `ForAll` wavelengths and energy levels:
+In 2020 Mathematica® incorporated theorem proving operators into its platform, whereupon the author posted in the [Wolfram Notebook Archive: AI Pattern-Matching CERN LHC Collision Particle Resonance Flow Patterns with Electromagnetic Energy Density Pressure Turbulence](https://notebookarchive.org/ai-pattern-matching-cern-lhc-collision-particle-resonance-flow-patterns-with-electromagnetic-energy-density-pressure-turbulence--2020-03-dujz6sz/), wherein shown below is the human-readable form of the Mathematica® theorem proving operator code which computationally reproduces the QED 0D→4D GEM EOS spatially-extended photon-electron soliton gauge group quantum mechanical observables to all 31 & 34 decimal places `ForAll` wavelengths and energy levels:
 
 [![4-DGEMEOSTheorem.png](https://i.postimg.cc/wTJ5xbcq/4-DGEMEOSTheorem.png)](https://postimg.cc/QH8K0myw)
 
@@ -238,7 +238,7 @@ Interestingly enough, recently MIT created a simulation of the proton nucleus [�
 
 Modern experimental physicists have completed an epic elimination of quantifiers proof in rigorously testing the particle-atomist-materialism teachings of Einstein-Aristotle-Democritus have verified _psychophysical parallelism_ in favor of the general information field theory-idealism of forms of their mentors Planck-Plato-Parmenides.
 
-Thus concludes the AI Peer Review ChatGPT-Wolfram Prompt section for a MUH: _SUSY_-AdS/CFT vs 4D GEM EOS review towards higher-confidence 4D spacetime human-ai worldview in the 2023 Kaggle AI Report Competition, in the category of Other, establishing the topic of computational reproducability of a 4D spacetime human-ai worldview. 
+Thus concludes the AI Peer Review ChatGPT-Wolfram Prompt section for a MUH: _SUSY_-AdS/CFT vs 4D GEM EOS review towards higher-confidence 4D spacetime human-ai worldview in the 2023 Kaggle AI Report Competition, in the category of Other, establishing the topic of computational reproducibility of a 4D spacetime human-ai worldview. 
 
 Following sections are to be ChatGPT-Wolfram Response and Conclusion using this Markdown format including a backup plan if necessary for the Control Room champagne bottles 🍾🍾🍾🍾🍾🍾🍾🍾🍾🍾🍾🍾🍾🍾🍾🍾🍾. 
 
