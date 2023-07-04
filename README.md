@@ -48,7 +48,7 @@ MUH conceptualizes the framework for a mathematical universe which 4D GEM EOS fo
 
 Shown below is the [Mathematica® theorem proving operator code to computationally reproduce the QED 0D→4D GEM EOS spatially-extended photon-electron soliton guage group quantum mechanical observables to all 31 & 34 decimal places `ForAll` wavelengths and energy levels](https://notebookarchive.org/ai-pattern-matching-cern-lhc-collision-particle-resonance-flow-patterns-with-electromagnetic-energy-density-pressure-turbulence--2020-03-dujz6sz/) via local stress tensor field operator Schwinger-Dirac-Einstein-Maxwell gravitoelectromagnetic stress-energy momentum computationally dualistic energy/mass density pressure tensor **T** field integrations. Measurable along Feynman path integrals Noether conserved angular momentum probability current ranging compressive through rarefactive of the cosmological constant vacuum energy momentum density pressure Λ spanning all the factors in the relativistic energy equation in all cases greater than zero energy/mass gap, hence establishing the total field formal frame for a computationally reproducable 4D spacetime human-ai experience worldview.
 
-The “entities beyond elementary particles” the committee has expressed willingness to consider are then the above immaterial field integration mathematical objects of the SCSC **solid information domain** and their _fluid range_ of 4D spatially-extended elementary particle values along the perfect fluid metric pressure trace of **T**. Accordingly, the [4D GEM EOS vision paper submitted to EPP-2024](VisionPaperHarnessDavid.pdf) sees the elementary particles to be the elementary field integrations of the holographically bound cyclic energy density distribution universal wavefunction domain and range having no choice but to exist while time integrates autonomously at the speed of light through the domain evolving from t−∞ → t∞. Thus no classical multi-body cause and effect is seen only a series of 4D spacetime event relative state effects where in the universal wavefunction fluid range nothing can happen unless it already exists in the solid domain.
+Here the “entities beyond elementary particles” the committee has expressed willingness to consider are then the above immaterial field integration mathematical objects of the SCSC **solid information domain** and their _fluid range_ of 4D spatially-extended elementary particle values along the perfect fluid metric pressure trace of **T**. Accordingly, the [4D GEM EOS vision paper submitted to EPP-2024](https://github.com/ehounder/AI-Report-AI-Peer-Review/blob/main/VisionPaperHarnessDavid.pdf) sees the elementary particles to be the elementary field integrations of the holographically bound cyclic energy density distribution universal wavefunction domain and range having no choice but to exist while time integrates autonomously at the speed of light through the domain evolving from t−∞ → t∞. Thus no classical multi-body cause and effect is seen only a series of 4D spacetime event relative state effects where in the universal wavefunction fluid range nothing can happen unless it already exists in the solid domain.
 
 Quantum teleportation is therefore also a holographically bound effect and can only be occurring on an immaterial quantum information basis, as confirmed by the null results of the _SUSY_ collision experiments at CERN LHC energy levels, as the money has run out, indicating there are no hidden variable unknown material mechanisms then there are no hidden dualistic consciousness-material mechanisms somehow guiding the “collapse of the wavefunction” as it were.
 
@@ -80,19 +80,19 @@ In 2019 the author first posted the 4D GEM EOS equations in the Maplesoft Applic
 
 In 2020 Mathematica® incorporated theorem proving operators into its platform, whereupon the author posted in the Wolfram Notebook Archive: [AI Pattern-Matching CERN LHC Collision Particle Resonance Flow Patterns with Electromagnetic Energy Density Pressure Turbulence](https://notebookarchive.org/ai-pattern-matching-cern-lhc-collision-particle-resonance-flow-patterns-with-electromagnetic-energy-density-pressure-turbulence--2020-03-dujz6sz/), wherein shown below is the human-readable form of the Mathematica® theorem proving operator code which computationally reproduces the QED 0D→4D GEM EOS spatially-extended photon-electron soliton guage group quantum mechanical observables to all 31 & 34 decimal places `ForAll` wavelengths and energy levels:
 
-![4DGEMEOSTheorem1.png](4DGEMEOSTheorem.png)
+![4DGEMEOSTheorem1.png](https://github.com/ehounder/AI-Report-AI-Peer-Review/blob/main/4DGEMEOSTheorem.png)
 
-![4DPhotonEnergy.png](4DPhotonEnergy.png)
+![4DPhotonEnergy.png](https://github.com/ehounder/AI-Report-AI-Peer-Review/blob/main/4DPhotonEnergy.png)
 
-![4DPhoton_h.png](4DPhoton_h.png)
+![4DPhoton_h.png](https://github.com/ehounder/AI-Report-AI-Peer-Review/blob/main/4DPhoton_h.png)
 
-![4DElectronMass.png](4DElectronMass.png)
+![4DElectronMass.png](https://github.com/ehounder/AI-Report-AI-Peer-Review/blob/main/4DElectronMass.png)
 
-![4DElectron_h-2.png](4DElectron_h-2.png)
+![4DElectron_h-2.png](https://github.com/ehounder/AI-Report-AI-Peer-Review/blob/main/4DElectron_h-2.png)
 
-![4DGEMEOSProof.png](4DGEMEOSProof.png)
+![4DGEMEOSProof.png](https://github.com/ehounder/AI-Report-AI-Peer-Review/blob/main/4DGEMEOSProof.png)
 
-![4DGEMEOSProofOutput.png](4DGEMEOSProofOutput.png)
+![4DGEMEOSProofOutput.png](https://github.com/ehounder/AI-Report-AI-Peer-Review/blob/main/4DGEMEOSProofOutput.png)
 
 **Fig. 4.** Mathematica® theorem proving operator 4D GEM EOS Theorem 1 Proof Standard Input Form
 
@@ -228,7 +228,7 @@ SuperscriptBox[\(c\), \(2\)]])\) \((1 -
 \*SuperscriptBox[\(r\), \(2\)] Sin[\[Phi]] \[DifferentialD]r \
 \[DifferentialD]\[Phi] \[DifferentialD]\[Theta]\)\)\) == hbar/2]]
 ```
-**Fig. 5.** [Mathematica® theorem proving operator Raw Input Form](4DGEMEOSAIpeerReviewPrompt.nb) for AI Report - ChatGPT-Wolfram AI Peer Review of 4D GEM EOS computational reproduction of 4D spacetime human-ai experience worldview.
+**Fig. 5.** [Mathematica® theorem proving operator Raw Input Form](https://github.com/ehounder/AI-Report-AI-Peer-Review/blob/main/4DGEMEOSAIpeerReviewPrompt.nb) for AI Report - ChatGPT-Wolfram AI Peer Review of 4D GEM EOS computational reproduction of 4D spacetime human-ai experience worldview.
 
 Recalling the view often expressed any new scientific theory in addition to being falsifiable, should also be of an unexpected nature, should make some unexpected prediction which is proven to be true, and generally embody a new physics direction.
 
@@ -236,7 +236,7 @@ Recalling the view often expressed any new scientific theory in addition to bein
 
 [A New Experiment Casts Doubt on the Leading Theory of the Nucleus](https://www.quantamagazine.org/a-new-experiment-casts-doubt-on-the-leading-theory-of-the-nucleus-20230612/)
 
-![4DGEMOSConclusion.png](4DGEMOSConclusion.png)
+![4DGEMOSConclusion.png](https://github.com/ehounder/AI-Report-AI-Peer-Review/blob/main/4DGEMOSConclusion.png)
 
 The 4D GEM EOS perspective on its Theorem 1 Mathematica® theorem proving operator validation is the proof establishes a computational basis beyond a 5-sigma validation for a 4D spacetime human-ai series of relative state experiences worldview, to the extent of making the claim modern experimental physicists have completed an epic elimination of quantifiers proof in rigorously testing the particle-atomist-materialism teachings of Einstein-Aristotle-Democritus, have verified psychophysical parallelism in favor of the general information field theory-idealism of forms of their mentors Planck-Plato-Parmenides.
 
