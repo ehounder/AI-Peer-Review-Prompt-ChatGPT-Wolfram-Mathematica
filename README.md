@@ -6,7 +6,7 @@ AI peer review prompt is generated for an ai-worldview in the [2023 Kaggle AI Re
 
 ### 1.  AI Peer Review ChatGPT-Wolfram Prompt for MUH: _SUSY_ vs 4D GEM EOS
 
-[Greek Natural Philosophy 300 BC to 2023 AD, Resolved: Particles are Fields](VisionPaperHarnessDavid.pdf)
+[Greek Natural Philosophy 300 BC to 2023 AD, Resolved: Particles are Fields](https://github.com/ehounder/AI-Report-AI-Peer-Review/blob/main/VisionPaperHarnessDavid.pdf)
 
 ![The School of Athens](TheSchoolofAthens.png)
 
