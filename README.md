@@ -86,13 +86,13 @@ In 2020 Mathematica® incorporated theorem proving operators into its platform, 
 
 [![4-DPhoton-h.png](https://i.postimg.cc/fyMv6cp7/4-DPhoton-h.png)](https://postimg.cc/0MHmSw8r)
 
-![4DElectronMass.png](https://github.com/ehounder/AI-Report-AI-Peer-Review/blob/main/4DElectronMass.png)
+[![4-DElectron-Mass.png](https://i.postimg.cc/m255FnK0/4-DElectron-Mass.png)](https://postimg.cc/jLyXpMxX)
 
-![4DElectron_h-2.png](https://github.com/ehounder/AI-Report-AI-Peer-Review/blob/main/4DElectron_h-2.png)
+[![4-DElectron-h-2.png](https://i.postimg.cc/3xQ26CGk/4-DElectron-h-2.png)](https://postimg.cc/XpxZB5QW)
 
-![4DGEMEOSProof.png](https://github.com/ehounder/AI-Report-AI-Peer-Review/blob/main/4DGEMEOSProof.png)
+[![4-DGEMEOSProof.png](https://i.postimg.cc/3xhnpHnf/4-DGEMEOSProof.png)](https://postimg.cc/kBjQ3LrW)
 
-![4DGEMEOSProofOutput.png](https://github.com/ehounder/AI-Report-AI-Peer-Review/blob/main/4DGEMEOSProofOutput.png)
+[![4-DGEMEOSProof-Output.png](https://i.postimg.cc/9QXyCXx2/4-DGEMEOSProof-Output.png)](https://postimg.cc/8j37bGQX)
 
 **Fig. 4.** Human-readable Standard Input Form of Mathematica® theorem proving operator Theorem 4D GEM EOS photon-electron soliton gauge group; wherein Eq.(6) field integration computationally reproduces the Einstein-Planck photon energy observable, Eq.(9) reproduces the Einstein-Planck photon angular momentum observable, in union with Eq.(13) field integration computationally reproduces the electron rest mass observable, and Eq.(15) reproduces the electron angular momentum observable.
 
@@ -234,7 +234,7 @@ Recalling the popular view that any new scientific theory, in addition to being 
 
 Interestingly enough, recently MIT created a simulation of the proton nucleus [“Visualizing the Proton” through animation and film](https://news.mit.edu/2022/visualizing-proton-through-animation-film-0425) and Bacca performed [A New Experiment Casts Doubt on the Leading Theory of the Nucleus](https://www.quantamagazine.org/a-new-experiment-casts-doubt-on-the-leading-theory-of-the-nucleus-20230612/) both of which are carried out by means of the photon-electron gauge group. New physics is indicated wherein 4D GEM EOS establishes the total field formal frame for the full Laplacian quantum mechanical spherical harmonics including the nucleus along the perfect fluid metric pressure trace of **T**:
 
-![4DGEMOSConclusion.png](https://github.com/ehounder/AI-Report-AI-Peer-Review/blob/main/4DGEMOSConclusion.png)
+[![4-DGEMOSConclusion.png](https://i.postimg.cc/HsYr7Zb4/4-DGEMOSConclusion.png)](https://postimg.cc/0r4kTCWb)
 
 Modern experimental physicists have completed an epic elimination of quantifiers proof in rigorously testing the particle-atomist-materialism teachings of Einstein-Aristotle-Democritus have verified _psychophysical parallelism_ in favor of the general information field theory-idealism of forms of their mentors Planck-Plato-Parmenides.
 
