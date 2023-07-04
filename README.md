@@ -244,7 +244,7 @@ Following sections are to be ChatGPT-Wolfram Response and Conclusion using this 
 
 ### 3.  AI Peer Review ChatGPT-Wolfram Response for MUH: _SUSY_-AdS/CFT vs 4D GEM EOS
 
-(Well of course the above prompt first submitted on 4 July 2023 was too long, along with the other limitations to the current relative state of the ChatGPT-Plus-beta-Wolfram plugin LLM, wherein resubmitting shorted code returned the following chat:)
+(Well of course the above prompt first submitted on 4 July 2023 was too long, along with other limitations to the current relative state of the ChatGPT-Plus-beta-Wolfram plugin LLM as indicated by resubmitting shorted code which returned the following chat:)
 
 [![Chat-GPT-Response-1.png](https://i.postimg.cc/DZm9vL81/Chat-GPT-Response-1.png)](https://postimg.cc/ZBt7j9Pq)
 
