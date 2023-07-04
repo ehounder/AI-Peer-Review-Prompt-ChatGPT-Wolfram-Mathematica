@@ -54,7 +54,7 @@ Quantum teleportation is therefore also a [holographic bound effect of the SCSC 
 
 Improbably, SCSC can never be proven via its internal axioms per Gödel incompleteness only falsified by proof of MUH: _SUSY_-AdS/CFT unfounded claim external physical reality is the mathematical structure of a computable universe having parallel universe variations of physical dimensions, constants, laws, and so on. Proof of MUH: _SUSY_-AdS/CFT of course requires solving the deepening crisis of formalizing the unknown parallel universe variations of the MUH: _SUSY_-AdS/CFT hidden dimensional particle physics model all of which are zero-sized (0D) Dirac delta functional imaginary-invisible local mathematical points which occupy no space yet are said operate via hidden dimensional unknown material nonlocally entangled mechanisms. Such unnaturalness arises again as an unacknowledged attempt to solve the classical multi-body problem on the universal(multiverse!) scale while the 3-body problem is proven to be computationally intractable.
 
-Consider for the present AI Report ChatGPT-Wolfram prompt to find a 4D human-ai worldview in favor of MUH: _SUSY_-AdS/CFT its LLM must be able to explain: 
+The list of unnaturalness questions for a ChatGPT-Wolfram prompt to answer in favor of a MUH: _SUSY_-AdS/CFT 4D spacetime human-ai worldview also includes: 
 
 > Re unnaturalness how is it again CERN particle physicists explain two hands clapping never touch?
 
