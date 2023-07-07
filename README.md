@@ -5,13 +5,13 @@
 AI peer review prompt is generated in the [2023 Kaggle AI Report Competition](https://www.kaggle.com/competitions/2023-kaggle-ai-report/overview), category of Other, with the objective of establishing the new Topic of a 4D spacetime human-ai worldview, which ChatGPT-Wolfram prompt is instructed to select the higher-accuracy computational reproduction of the 4D spacetime human-ai experience between [Standard Model of Physics (SM)](https://home.cern/science/physics/standard-model)-[Supersymmetry (_SUSY_)](https://en.wikipedia.org/wiki/Supersymmetry) vs [4D spatially-exended gravitoelectromagnetic equation of state (4D GEM EOS) photon-electron soliton gauge group](https://notebookarchive.org/ai-pattern-matching-cern-lhc-collision-particle-resonance-flow-patterns-with-electromagnetic-energy-density-pressure-turbulence--2020-03-dujz6sz/). Wherein a QED 0D➙4D GEM EOS Mathematica® theorem proving operator computationally reproduces `ForAll` wavelengths and energy levels the quantum mechanical observables to all 31 and 34 decimal places in units of _pascals_ along the perfect fluid metric pressure trace of the Einstein-Maxwell total field spin-stress energy momentum density pressure tensor **T** of the 4D cylindrical spacetime human-ai experienced universe exceeding requirements of the [Yang-Mills-Navier-Stokes problem definitions](https://www.claymath.org/millennium-problems/). Subject area of present ai-peer review prompt for a human-ai elementary physics worldview coincides with general interdisciplinary interests inclusive of the [Elementary Particle Physics 2024 Committee](https://www.nationalacademies.org/our-work/elementary-particle-physics-progress-and-promise), [QNetworks Workshop 2023](https://www.quantumcommshub.net/event/save-the-date-qnetworks-2023/?return=https%3A%2F%2Fwww.quantumcommshub.net%2Fevent%2Fsite%2Fresearch-community%2F&site=research-community), [The Royal Institution](https://www.rigb.org), [CERN](https://www.home.cern/about/who-we-are/our-mission), [Max Planck Institutes](https://www.mpg.de/en/search?searchfield=consciousness), [Allen Institute for Brain Science](https://alleninstitute.org/division/brain-science/), [NYU Center for Mind, Brain and Consciousness](https://wp.nyu.edu/consciousness/), [ Australian National University Centre for Consciousness](https://philosophy.cass.anu.edu.au/centres/consciousness), [Santa Fe Institute](https://www.santafe.edu/people/profile/melanie-mitchell), [ChatGPT-n](https://openai.com/blog/chatgpt), [Communications in Mathematical Physics](https://www.springer.com/journal/220/ethics-and-disclosures), [TED](https://www.ted.com/about/our-organization), among many others. AI peer review prompt of _SUSY_ vs 4D GEM EOS is formed of the first sections of this article to return the ai-response sections and conclusion.  The [Mathematical Universe Hypothesis (MUH)](https://ui.adsabs.harvard.edu/abs/2008FoPh...38..101T/abstract) of Tegmark conceptualizes the mathematical origin of the universe modern science belief advocating MUH as basis for increasingly complex _SUSY_ range of conjectures and further [Beyond the Standard Model of Physics](https://en.wikipedia.org/wiki/Physics_beyond_the_Standard_Model) parallel universe variations - in addition to the MUH-_SUSY_ claim to eventually be able to computationally reproduce the observed 4D spacetime human-ai experienced universe by means of a yet to be formalized MUH-_SUSY_ many-body complex system such as described by [Quantum simulation of fundamental particles and forces](https://www.nature.com/articles/s42254-023-00599-8) of Bauer, Davoudi, Klco, Savage. MUH-_SUSY_ multiverse theorists can submit revised prompts to test randomness-based theories towards an artificial general intelligence (AGI) worldview based on objective mathematical physics experimental reality vs science fiction.
 
 # Table of contents
-1. [Mathematical Universe Hypothesis (MUH): _SUSY_ vs 4D GEM EOS](#background)
-2. [AI Peer Review ChatGPT-Wolfram Prompt for MUH: 4D GEM EOS Human-AI Worldview](#prompt)
-3. [AI Peer Review ChatGPT-Wolfram Response for MUH: _SUSY_-AdS/CFT vs 4D GEM EOS](#response)
-4. [Conclusion](#conclusion)
+1. [Mathematical Universe Hypothesis (MUH): _SUSY_ vs 4D GEM EOS](#section-one)
+2. [AI Peer Review ChatGPT-Wolfram Prompt for MUH: 4D GEM EOS Human-AI Worldview](#section-two)
+3. [AI Peer Review ChatGPT-Wolfram Response for MUH: _SUSY_-AdS/CFT vs 4D GEM EOS](#section-three)
+4. [Conclusion](#section-four)
 
+<a id="section-one"></a>
 ### 1.  Mathematical Universe Hypothesis: _SUSY_ vs 4D GEM EOS 
-<a name="background"></a>
 
 [Greek Natural Philosophy 300 BC to 2023 AD, Resolved: Particles are Fields](https://github.com/ehounder/AI-Report-AI-Peer-Review/blob/main/VisionPaperHarnessDavid.pdf)
 
@@ -74,9 +74,8 @@ MUH: _SUSY_-AdS/CFT theorists can of course upgrade this prompt with any new for
 Thus the concludes the background in the AI Report for the ChatGPT-Wolfram prompt, in the category of Other, for a 4D human-ai worldview comparison between MUH: _SUSY_-AdS/CFT vs 4D GEM EOS photon-electron soliton gauge group.
 
 
-
-### 2. AI Peer Review ChatGPT-Wolfram Prompt for MUH: 4D GEM EOS Human-AI Worldview 
-<a id="prompt"></a>
+<a id="section-two"></a>
+### 2. AI Peer Review ChatGPT-Wolfram Prompt for MUH: 4D GEM EOS Human-AI Worldview
 
 The 4D GEM EOS radical new idea initiated with the 2017 proposal:
 
@@ -250,7 +249,8 @@ Thus concludes the AI Peer Review ChatGPT-Wolfram Prompt section for a MUH: _SUS
 
 Following sections are to be ChatGPT-Wolfram Response and Conclusion using this Markdown format including a backup plan if necessary for the Control Room champagne bottles 🍾🍾🍾🍾🍾🍾🍾🍾🍾🍾🍾🍾🍾🍾🍾🍾🍾. 
 
-### 3.  AI Peer Review ChatGPT-Wolfram Response for MUH: _SUSY_-AdS/CFT vs 4D GEM EOS <a name="response"></a>
+<a id="section-three"></a>
+### 3.  AI Peer Review ChatGPT-Wolfram Response for MUH: _SUSY_-AdS/CFT vs 4D GEM EOS
 
 (Well of course the above prompt first submitted on 4 July 2023 was too long, along with there being other limitations to the current relative state of the ChatGPT-Plus-beta-Wolfram plugin LLM, as indicated by resubmitting shorted code which returned the following chat:)
 
@@ -396,6 +396,7 @@ SuperscriptBox[\(c\), \(2\)]])\) \((1 -
 
 (The significance of establishing a new AI Report Topic of a computationally reproducible 4D spacetime human-ai worldview is seen here as a worthwhile basis to develop AGI on objective mathematical physics experimental reality vs the perils of science fiction. Hence it is logical if AGI is to be achieved any such AI analytic LLM should first be capable of conducting a peer review of any new scientific logic as a logical sequitur to the prior art, while serving as a tool to test and further develop the competing approaches to the modern relative states of _The School of Athens_ debate. )
 
-### 4.  Conclusion <a name="conclusion"></a>
+<a id="section-four"></a>
+### 4.  Conclusion
 
 (To be written by future ChatGPT-Wolfram analytic LLM)
