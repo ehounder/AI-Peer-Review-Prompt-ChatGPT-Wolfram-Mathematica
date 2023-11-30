@@ -103,7 +103,7 @@ In 2020 Mathematica® incorporated theorem proving operators into its platform, 
 
 **Fig. 4.** Human-readable Standard Input Form of Mathematica® theorem proving operator Theorem 4D GEM EOS photon-electron soliton gauge group; wherein Eq.(6) field integration computationally reproduces the Einstein-Planck photon energy observable, Eq.(9) reproduces the Einstein-Planck photon angular momentum observable, in union with Eq.(13) field integration computationally reproduces the electron rest mass observable, and Eq.(15) reproduces the electron angular momentum observable. [Quantum fluid conjecture meets alternate criteria for Navier-Stokes solution](https://www.claymath.org/millennium/navier-stokes-equation/).
 
-The following is the [Raw Input Form Mathematica® theorem proving operator code](https://www.researchgate.net/publication/374870036_General_Information_Theory_4D_Photon-Electron_Soliton_Gauge_Group_ForAll_Wavelengths_and_Energy_Levels) for the ChatGPT-Wolfram prompt for an AI Peer Review of 4D GEM EOS computational reproduction of a 4D spacetime human-ai experience worldview:
+The following is the [Raw Input Form Mathematica® theorem proving operator code](https://github.com/ehounder/npjGeneralInformationTheory/blob/main/4DGEMEOSphoton-electronProof.nb) for the ChatGPT-Wolfram prompt for an AI Peer Review of 4D GEM EOS computational reproduction of a 4D spacetime human-ai experience worldview:
 
 ```
 Proof = DynamicModule[{
